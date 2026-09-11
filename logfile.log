@@ -1,0 +1,9 @@
+Start of Classification Utility
+Input File opened successfully
+Login to Teamcenter is successful
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Processing Item_id is -> 000053|suffix is -> |object_type is -> Item|Icm class id is -> ICM030203
+-----------------------------------------------------------------------------------------------------------------------
+INFO: Object is available in Teamcenter, start object classification
+INFO: Object is not classified, Start Object classification
+ ERROR: Class-> ICM030203 error in classification object creation 71503

@@ -1,0 +1,1046 @@
+item_id$item_revision_id$object_type$CLASS_ID$CLASS_NAME$Coded Airfoils$Customer$Project$Project data$Ring$Root diameter$Source$Source specification$Tip diameter$Type$$$$
+8280004$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$$SW ventola$Yes$124$Design$$366$Axial$$$$
+8280005$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$$SW AXFAN$Yes$152$Design$$366$Axial$$$$
+8280009$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$B5$$Yes$124$Design$$275$Axial$$$$
+8280016$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$8025 R4V4$premente$Yes$146$Modification$8280000$381$Axial$$$$
+8280041$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$B5$$Yes$140$Design$$263$Axial$$$$
+8280050$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$AUDI$$SW Autofan$Yes$124$Design$$262$Axial$$$$
+8280053$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$8117 T1$$Yes$140$Scaling$8280020$366$Axial$$$$
+8280054$$LT4_JECAD$ICM0102023201$CFM Blade$No$$B5$SW Autofan$Yes$124$Design$$262$Axial$$$$
+8280058$$LT4_JECAD$ICM0102023201$CFM Blade$No$$$reverse DAIHATSU$Yes$108$Reverse$$298$Axial$$$$
+8280059$$LT4_JECAD$ICM0102023201$CFM Blade$No$FORD$MONDEO$Reverse$Yes$164$Reverse$$354$Axial$$$$
+8280072$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$X300$$Yes$140$Design$$400$Axial$$$$
+8280101$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$$SW John Tevelde$Yes$152$Design$$366$Axial$$$$
+8280109$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$$antioraria$Yes$140$Modification$8280106$364$Axial$$$$
+8280110$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$TORUS$antioraria$Yes$140$Modification$8280105$366$Axial$$$$
+8280112$$LT4_JECAD$ICM0102023201$CFM Blade$No$FORD$C195$Reverse$Yes$144$Reverse$$376$Axial$$$$
+8280113$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$B200$antioraria$Yes$140$Modification$8280020$366$Axial$$$$
+8280115$$LT4_JECAD$ICM0102023201$CFM Blade$No$$S4300 1A$$Yes$124$Scaling$8280093$262$Axial$$$$
+8280124$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$TARS$Reverse$Yes$140$Reverse$$360$Axial$$$$
+8280134$$LT4_JECAD$ICM0102023201$CFM Blade$No$FIAT$NEW370$scalata su diametro, scalettata, tagliata e reimpilata circonferenzialmente$Yes$140$Reverse$8280038$366$Axial$$$$
+8280159$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$X4 400mm$$Yes$146$Scaling$8280139$406$Axial$$$$
+8280164$$LT4_JECAD$ICM0102023201$CFM Blade$No$$X350$$Yes$180$Scaling$8280152$456$Axial$$$$
+8280170$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$VES9$$Yes$132$Scaling$8280036$320$Axial$$$$
+8280172$$LT4_JECAD$ICM0102023201$CFM Blade$No$FIAT$937$$Yes$150$Scaling$8280147$379$Axial$$$$
+8280174$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$STUDIO$$Yes$210$Scaling$$456$Axial$$$$
+8280196$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$S4316 BIG$$Yes$140$Scaling$8280191$345$Axial$$$$
+8280197$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$U231 6P$$Yes$152$Design$$456$Axial$$$$
+8280198$$LT4_JECAD$ICM0102023201$CFM Blade$No$BEHR GM$SATURN$$Yes$124$Design$$296$Axial$$$$
+8280211$$LT4_JECAD$ICM0102023201$CFM Blade$No$AUDI$PQ24$Reverse$Yes$123$Reverse$$338$Axial$$$$
+8280226$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$PSA$A7$$Yes$160$Design$$368$Axial$$$$
+8280236$$LT4_JECAD$ICM0102023201$CFM Blade$No$FIAT$199$Reverse$Yes$124$Reverse$8280236$284$Axial$$$$
+8280244$$LT4_JECAD$ICM0102023201$CFM Blade$No$FORD$CD132$rev./00 scalata e reimpilata - rev./01 viziata x deformazioni$Yes$140$Modification$8280162$365$Axial$$$$
+1112-5YY0004$$LT4_JECAD$ICM0102023201$CFM Blade$No$DELPHI$EPSILON2$scalata su diametro(390/370) reimpilata$Yes$147$Modification$8280244$385$Axial$$$$
+8280253$$LT4_JECAD$ICM0102023201$CFM Blade$No$USA$CORSA D2u$scalata su diametro (368/370) scalata su corda dalla rev./00$Yes$150$Modification$8280244$365$Axial$$$$
+8280255$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$PSA$Z9$$Yes$140$Design$$320$Axial$$$$
+8280010$$LT4_JECAD$ICM0102023201$CFM Blade$No$MERCEDES$$$Yes$170$$$445$Axial$$$$
+8280011$$LT4_JECAD$ICM0102023201$CFM Blade$No$$1002 VE83$$Yes$110$Scaling$8280045$168$Axial$$$$
+8280013$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$4525 HH$$Yes$110$$$325$Axial$$$$
+8280018$$LT4_JECAD$ICM0102023201$CFM Blade$No$$8120 ST$$Yes$122$Design$$320$Axial$$$$
+8280024$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$$SW FanAir$Yes$197$Design$$368$Axial$$$$
+8280029$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$B5$$Yes$152$Design$$370$Axial$$$$
+8280000$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BEHR$$$Yes$146$$$381$Axial$$$$
+8280001$$LT4_JECAD$ICM0102023201$CFM Blade$No$$$$Yes$124$Scaling$8280012$320$Axial$$$$
+8280003$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$$SW ventola$Yes$125$Design$$366$Axial$$$$
+8280008$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$$SW ventola$Yes$150$Design$$366$Axial$$$$
+8280015$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$BE91$SW ventola$Yes$124$Design$$346$Axial$$$$
+8280017$$LT4_JECAD$ICM0102023201$CFM Blade$No$$$SW AXFAN$Yes$165$Design$$368$Axial$$$$
+8280022$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$X65$allegerita$Yes$140$Modification$8280000$366$Axial$$$$
+8280026$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$$$Yes$124$$$379$Axial$$$$
+8280032$$LT4_JECAD$ICM0102023201$CFM Blade$No$PORSHE$$$Yes$80$Design$$187$Axial$$$$
+8280036$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$$$Yes$124$Modification$$320$Axial$$$$
+8280051$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$X06$$Yes$100$$$381$Axial$$$$
+8280062$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$R4V4$premente$Yes$140$Modification$8280022$366$Axial$$$$
+8280066$$LT4_JECAD$ICM0102023201$CFM Blade$No$$HH$$Yes$110$Design$$300$Axial$$$$
+8280076$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$$miglioramento bordo di uscia raggio$Yes$130$Design$$366$Axial$$$$
+8280077$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$$miglioramento bordo di uscita raggio , un po radiale BB$Yes$130$Scaling$8280076$366$Axial$$$$
+8280082$$LT4_JECAD$ICM0102023201$CFM Blade$No$$$$Yes$130$Design$$366$Axial$$$$
+8280120$$LT4_JECAD$ICM0102023201$CFM Blade$No$$BRUSHLESS$$Yes$117$Scaling$8280097$400$Axial$$$$
+8280122$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$MCC$$Yes$80$Scaling$8280042$186$Axial$$$$
+8280123$$LT4_JECAD$ICM0102023201$CFM Blade$No$$T5$$Yes$140$$$378$Straightener$$$$
+8280125$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$VALEO$$Reverse$Yes$117$Reverse$$305$Axial$$$$
+8280130$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$T1 300W$Reverse$Yes$152$Reverse$$366$Axial$$$$
+8280132$$LT4_JECAD$ICM0102023201$CFM Blade$No$$X4-N7$reimpilata su z taglio all'apice scalato corda e freccia$Yes$140$Design$8280106$368$Axial$$$$
+8280133$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$X4-N7$$Yes$140$Design$$368$Axial$$$$
+8280135$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$T1 300W$$Yes$152$Scaling$8280130$366$Axial$$$$
+8280146$$LT4_JECAD$ICM0102023201$CFM Blade$No$$V227$$Yes$140$Design$$364$Axial$$$$
+8280148$$LT4_JECAD$ICM0102023201$CFM Blade$No$NISSAN$HM$Reverse$Yes$110$Reverse$$320$Axial$$$$
+8280160$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BEHR$178R1$Reverse$Yes$134$Reverse$$315$Axial$$$$
+8280162$$LT4_JECAD$ICM0102023201$CFM Blade$No$FIAT$NEW370$viziatura per recupero deformazioni stampaggio$Yes$140$Scaling$8280134$366$Axial$$$$
+8280163$$LT4_JECAD$ICM0102023201$CFM Blade$No$$X400$$Yes$124$$$320$Axial$$$$
+8280165$$LT4_JECAD$ICM0102023201$CFM Blade$No$$X4-QUALITY$Reverse$Yes$148$Reverse$$366$Axial$$$$
+8280173$$LT4_JECAD$ICM0102023201$CFM Blade$No$MITSUBISHI$$$Yes$116$$$270$Axial$$$$
+8280175$$LT4_JECAD$ICM0102023201$CFM Blade$No$$X350$$Yes$180$Scaling$8280164$456$Axial$$$$
+8280180$$LT4_JECAD$ICM0102023201$CFM Blade$No$$$$Yes$140$Design$$338$Axial$$$$
+8280182$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$$$Yes$126$Design$$310$Axial$$$$
+8280184$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$8120 V8$tagliata a meta' span e calettata$Yes$130$Reverse$8280038$276$Axial$$$$
+8280203$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$PSA$X4 ECI$$Yes$170$Design$$370$Axial$$$$
+8280205$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$FIAT$PSC$$Yes$145$Design$$290$Axial$$$$
+8280208$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$D2X6$$Yes$140$Design$$330$Axial$$$$
+8280210$$LT4_JECAD$ICM0102023201$CFM Blade$No$$$$Yes$140$Scaling$8280162$366$Axial$$$$
+8280212$$LT4_JECAD$ICM0102023201$CFM Blade$No$$8112 S4316$Reverse$Yes$140$Reverse$8280025$295$Axial$$$$
+8280217$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$E9X$$Yes$200$Design$$453$Axial$$$$
+8280221$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$Z9$Reverse$Yes$140$Reverse$8280208$320$Axial$$$$
+8280231$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$FIAT$199$$Yes$152$Design$$380$Axial$$$$
+8280254$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$PSA$Z9$$Yes$140$Design$$320$Axial$$$$
+8280259$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$600W$scalata su diametro(480/458) e calettata$Yes$210$Modification$8280217$480$Axial$$$$
+8280261$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$rotore x SW BB$$Yes$140$Design$$325$Axial$$$$
+8280271$$LT4_JECAD$ICM0102023201$CFM Blade$No$AUDI$B8$traslato sul diametro e scalettata di -1° dalla rev./00$Yes$153$Modification$8280244$365$Axial$$$$
+8280277$$LT4_JECAD$ICM0102023201$CFM Blade$No$BMW$600 W$scalata su diametro(370/405) e calettata -3°$Yes$200$Modification$8280097$475$Axial$$$$
+8280305$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$OPEL$DELTA II$$Yes$150$Design$$320$Axial$$$$
+8280317$$LT4_JECAD$ICM0102023201$CFM Blade$No$JAGUAR$X250$scalata su diametro(453/430)$Yes$175$Scaling$8280288$453$Axial$$$$
+8280321$$LT4_JECAD$ICM0102023201$CFM Blade$No$VW$PQ35$scalata e calettata$Yes$147.6$Modification$8280253$385$Axial$$$$
+8280322$$LT4_JECAD$ICM0102023201$CFM Blade$No$JAGUAR$X250$modificato bordo di uscita eta e rumore minore della 97$Yes$195.3$Modification$8280318$453$Axial$$$$
+8280326$$LT4_JECAD$ICM0102023201$CFM Blade$No$VW$PQ35$rev./00 off-set  bordo di uscita scalettata 0,5° reimpilata in z$Yes$147.6$Reverse$8280249$385$Axial$$$$
+8280331$$LT4_JECAD$ICM0102023201$CFM Blade$No$BMW$600 W$scalata su diametro(460/405) scalettata$Yes$195$Modification$8280097$455$Axial$$$$
+8280332$$LT4_JECAD$ICM0102023201$CFM Blade$No$BMW$400 W$scalata sul diametro(460/480) calettata$Yes$180$Modification$8280258$455$Axial$$$$
+8280336$$LT4_JECAD$ICM0102023201$CFM Blade$No$JAGUAR$X250$scalata sulla corda 8/11$Yes$198$Modification$8280327$455$Axial$$$$
+8280343$$LT4_JECAD$ICM0102023201$CFM Blade$No$JAGUAR$X250$bward modificato bordo di uscita$Yes$197.3$Modification$8280327$455$Axial$$$$
+8280348$$LT4_JECAD$ICM0102023201$CFM Blade$No$JAGUAR$X250$calettata: 0° mozzo 1.5° centro 0° anello$Yes$198$Modification$8280336$455$Axial$$$$
+8280350$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$FIAT$AR939$scalata sul diametro(430/397) calettata -2° e scalata sulla corda$Yes$170$Reverse$8280038$425$Axial$$$$
+8280361$$LT4_JECAD$ICM0102023201$CFM Blade$No$PSA$BVH2$scalata su diametro(415/420)$Yes$158$Scaling$8280352$410$Axial$$$$
+8280362$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$USA$E-FLEX$scalata su diametro(312/325) calettata +5°$Yes$140$Modification$8280304$308$Axial$$$$
+8280366$$LT4_JECAD$ICM0102023201$CFM Blade$No$RIYONG$SGM258$scalata su diametro(460/430)$Yes$170$Scaling$8280358$455$Axial$$$$
+8280372$$LT4_JECAD$ICM0102023201$CFM Blade$No$BMW$PL7 300W$calettata -3°$Yes$163$Modification$8280288$425$Axial$$$$
+8280377$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$PL7 300W$reverse$Yes$170$Reverse$8280350$455$Axial$$$$
+8280381$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$FORD$C1 MCA$premente invertita$Yes$110$Design$$164$Axial$$$$
+8280386$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$FCA$WL$Nuova progettazione ventola senza anello$No$190$Design$$520$Axial$$$$
+8280035$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$$$Yes$100$$$274$Axial$$$$
+8280039$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$FORD$$scalatura su diametro (0.84) traslazione pala, specchiatura da CW a CCW$Yes$114.6$Modification$8280036$315$Axial$$$$
+8280064$$LT4_JECAD$ICM0102023201$CFM Blade$No$$Z8$$Yes$130$Design$$366$Axial$$$$
+8280065$$LT4_JECAD$ICM0102023201$CFM Blade$No$$Z8$$Yes$140$Scaling$8280064$366$Axial$$$$
+8280069$$LT4_JECAD$ICM0102023201$CFM Blade$No$PIAGGIO$$$Yes$35$Design$$75$Axial$$$$
+8280070$$LT4_JECAD$ICM0102023201$CFM Blade$No$$4520/BE146$ritocco per ingombro$Yes$110$Modification$8280013$320$Axial$$$$
+8280074$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$$viziatura per recupero deformazioni stampaggio$Yes$140$Modification$8280020$366$Axial$$$$
+8280079$$LT4_JECAD$ICM0102023201$CFM Blade$No$$X200$tagliata e scalettata$Yes$170$Modification$8280038$400$Axial$$$$
+8280085$$LT4_JECAD$ICM0102023201$CFM Blade$No$$X200$variato spessore profili creato bordo uscita$Yes$170$Reverse$8280079$400$Axial$$$$
+8280096$$LT4_JECAD$ICM0102023201$CFM Blade$No$OPEL$$modificata per ingombro$Yes$124$Scaling$8280095$290$Axial$$$$
+8280097$$LT4_JECAD$ICM0102023201$CFM Blade$No$$X200$$Yes$170$Scaling$8280085$400$Axial$$$$
+8280106$$LT4_JECAD$ICM0102023201$CFM Blade$No$$T1 280W$$Yes$140$Scaling$8280090$364$Axial$$$$
+8280108$$LT4_JECAD$ICM0102023201$CFM Blade$No$$T1 300W$$Yes$145$Design$$360$Axial$$$$
+8280121$$LT4_JECAD$ICM0102023201$CFM Blade$No$$MINIVISCO$$Yes$124$Scaling$8280033$262$Axial$$$$
+8280129$$LT4_JECAD$ICM0102023201$CFM Blade$No$$$$Yes$170$$8280079$400$Axial$$$$
+8280131$$LT4_JECAD$ICM0102023201$CFM Blade$$$$$$$$$$$$$$
+8280144$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$$$Yes$140$Scaling$8280129$370$Axial$$$$
+8280156$$LT4_JECAD$ICM0102023201$CFM Blade$No$$PQ24 K$$Yes$110$Scaling$8280150$320$Axial$$$$
+8280157$$LT4_JECAD$ICM0102023201$CFM Blade$No$$$$Yes$140$Scaling$8280075$376$Axial$$$$
+1112-5YY0006$$LT4_JECAD$ICM0102023201$CFM Blade$No$BEHR$178R4$Reverse$Yes$153$Reverse$$363$Axial$$$$
+8280169$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$STUDIO$$Yes$310$Scaling$8280168$456$Axial$$$$
+8280171$$LT4_JECAD$ICM0102023201$CFM Blade$No$MITSUBISHI$$Reverse$Yes$116$Reverse$$270$Axial$$$$
+8280179$$LT4_JECAD$ICM0102023201$CFM Blade$No$$4525PR3P$Reverse$Yes$70$Reverse$$187$Axial$$$$
+8280190$$LT4_JECAD$ICM0102023201$CFM Blade$No$$S4316 BIG$Reverse$Yes$140$Reverse$8280181$350$Axial$$$$
+8280192$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$DELPHI$GMT390$$Yes$132$Design$$316$Axial$$$$
+8280193$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$$$Yes$126$Scaling$8280163$320$Axial$$$$
+8280195$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$GMT235$$Yes$125$Design$$321$Axial$$$$
+8280213$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$PQ35 PQ46$$Yes$140$Design$8280202$353$Axial$$$$
+8280215$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$DTR$$Yes$150$Design$8280200$321$Axial$$$$
+8280218$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$OPEL$MP8131DTH$Reverse$Yes$130$Reverse$$345$Axial$$$$
+8280246$$LT4_JECAD$ICM0102023201$CFM Blade$No$MAZDA$J48C$reimpilato Faurecia$Yes$140$Modification$8280162$365$Axial$$$$
+8280280$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$FORD$CD378USA$scalata sul diametro (305/370) scalata sulla corda, calettata +1,5°$Yes$140$Modification$8280075$305$Axial$$$$
+8280282$$LT4_JECAD$ICM0102023201$CFM Blade$No$PSA$A7 450 W$scalata sulla corda, scalettata -7°$Yes$150$Modification$8280170$365$Axial$$$$
+8280291$$LT4_JECAD$ICM0102023201$CFM Blade$No$NISSAN$L11K$reimpilato profili su bordo di uscita pala cod.8280244 e calettata +2°$Yes$136$Modification$8280241$345$Axial$$$$
+8280303$$LT4_JECAD$ICM0102023201$CFM Blade$No$FORD$C307$calettata +2° dalla -00$Yes$140$Modification$8280244$365$Axial$$$$
+8280308$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$GM USA$GMT319$$Yes$130$Design$$324$Axial$$$$
+8280310$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$FORD USA$V229$$Yes$140$Design$$365$Axial$$$$
+8280315$$LT4_JECAD$ICM0102023201$CFM Blade$No$GM USA$GMT319$Scalato su diametro (339/340) corda, e calettato$Yes$131.5$Scaling$8280252$334$Axial$$$$
+8280324$$LT4_JECAD$ICM0102023201$CFM Blade$No$JAGUAR$X250$traslato su diametro mozzo (era 170)$Yes$180$Modification$8280152$455$Axial$$$$
+8280349$$LT4_JECAD$ICM0102023201$CFM Blade$No$JAGUAR$X250$calettata: 0° mozzo 1.5° centro 0° anello$Yes$180$Modification$8280324$455$Axial$$$$
+8280364$$LT4_JECAD$ICM0102023201$CFM Blade$No$VW$PQ24$scalata su diametro(384/430) calettata -3°$Yes$164$Modification$8280343$379$Axial$$$$
+8280374$$LT4_JECAD$ICM0102023201$CFM Blade$No$PSA$A9$calettata -3°$Yes$140$Modification$8280357$365$Axial$$$$
+8280392$$LT4_JECAD$ICM0102023201$CFM Blade$No$FORD$CD4$scalata su diametro(320/405) corda e calettata -5°$Yes$134$Modification$8280097$316$Axial$$$$
+8280411$$LT4_JECAD$ICM0102023201$CFM Blade$No$VW$PQ24 RUSH$scalato su diametro (384/390) scalettato -1,5°$Yes$145$Scaling$8280249$379$Axial$$$$
+8280412$$LT4_JECAD$ICM0102023201$CFM Blade$No$PSA$BVH2$reverse pala pala$Yes$155$Reverse$8280334$410$Axial$$$$
+8280423$$LT4_JECAD$ICM0102023201$CFM Blade$No$VW$PQ24 RUSH$calettata +2°, scalata sulla corda (0,92)$Yes$145$Modification$8280410$379.4$Axial$$$$
+8280433$$LT4_JECAD$ICM0102023201$CFM Blade$No$PSA$BVH2$bordo di uscita specchiato Bward$Yes$154$Modification$8280431$410$Axial$$$$
+8280437$$LT4_JECAD$ICM0102023201$CFM Blade$No$VW$MQB$scalata sulla corda (9/10), calettata +0,9°, aumentato lo spessore 0,5$Yes$170$Modification$8280377$425$Axial$$$$
+8280439$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$FORD$CAC$scalata su diametro(212/322) montata su mozzo 111mm, off-set(+0,5)$Yes$111$Modification$8280414$207$Axial$$$$
+8280446$$LT4_JECAD$ICM0102023201$CFM Blade$No$MASERATI$M156$scalata su diametro(496/486)$Yes$194$Scaling$8280428$490.4$Axial$$$$
+8280463$$LT4_JECAD$ICM0102023201$CFM Blade$No$RENAULT$EDISON AUS.$Reverse Concorrenza$Yes$42$Reverse$$130$Axial$$$$
+8280472$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$GM USA$31XX$scalata su diametro(567/430) sulla corda (9/11)$Yes$225$Modification$8280394$562$Axial$$$$
+8280473$$LT4_JECAD$ICM0102023201$CFM Blade$No$GM USA$D2UXX$scalata su diametro (320/384) traslata +3.5mm$Yes$132$Modification$8280413$315$Axial$$$$
+8280484$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$35UP$scalato su diametro (475/430) reimpilato sulla circonferenza$Yes$188$Modification$8280468$470.6$Axial$$$$
+8280487$$LT4_JECAD$ICM0102023201$CFM Blade$No$GM USA$D2UXX$calettata -4°$Yes$137$Modification$8280486$326$Axial$$$$
+8280489$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$35UP$scalata su diametro(495/425) calettata -1,5°$Yes$161$Modification$8280480$491$Axial$$$$
+8280495$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$LAMDA MOTOR$$Yes$169$Design$$365$Axial$$$$
+8280514$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$AUDI$Q5$scalata su diametro (455/425)$Yes$182$Modification$8280509$455$Axial$$$$
+8280515$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$AUDI$Q5$scalata su diametro (455/425) ,scalettata -4°$Yes$182$Modification$8280509$455$Axial$$$$
+8280517$$LT4_JECAD$ICM0102023201$CFM Blade$$BMW$35UP$inspessimento locale profili x stampo$Yes$188$Modification$8280511$469.4$Axial$$$$
+8280542$$LT4_JECAD$ICM0102023201$CFM Blade$No$FCA$521/226/556&526India$Calettare +2°$Yes$150.00$Reverse$8280240$380.00$Axial$$$$$$$$$$
+8280543$$LT4_JECAD$ICM0102023201$CFM Blade$No$GM$SGM358$scalata (430/460), calettata +4°,scalata corda (1.02)$Yes$162.53$Modification$8280536$425$Axial$$$$
+8280550$$LT4_JECAD$ICM0102023201$CFM Blade$No$NISSAN$W42P$Scalata su diametro (340/395)$Yes$126.27$Scaling$8280249$335$Axial$$$$
+8280574$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$DELPHI$35UP$Scalata su diametro (469.4/465), montaggio 9 pale sulla ventola (aumento solidità)$Yes$157$Scaling$8280563$469.4$Axial$$$$
+8280577$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$VW$MQB$Scalata su diametro (360/430)$Yes$142.3$Scaling$8280509$356$Axial$$$$
+8280596$$LT4_JECAD$ICM0102023201$CFM Blade$No$MERCEDES$MFA2$Scalata su diametro (389/455)$Yes$148.80$Scaling$8280536$389.00$Axial$$$$$$$$$$
+8280600$$LT4_JECAD$ICM0102023201$CFM Blade$No$FORD$C2 600W EC$scalata su diametro(440/445) e corda(8/10)$Yes$164.7$Scaling$8280494$435.6$Axial$$$$
+8280602$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$FIAT$DT - JL$Prima geometria con SW PALA$Yes$170$Design$$452.8$Axial$$$$
+8280643$$LT4_JECAD$ICM0102023201$CFM Blade$No$FORD$CD6$Scalata sul diametro (510/390)$Yes$198$Scaling$8280582$503.8$Axial$$$$
+8280681$$LT4_JECAD$ICM0102023201$CFM Blade$No$DOOWON$OS$Scalata su corda (8/11)$Yes$156$Scaling$8280172$394$Axial$$$$
+8280684$$LT4_JECAD$ICM0102023201$CFM Blade$No$DOOWON$OS$scalettata 0°deg al mozzo, -1°deg a raggio medio e -2°deg all'apice per tener conto della deformazione paletta di partenza pala-pala 8280172$Yes$156$Scaling$8280672$394$Axial$$$$
+8280686$$LT4_JECAD$ICM0102023201$CFM Blade$No$TESLA$Model S$Scalatura in diametro (327/316), calettamento -1.5, variazione numero di pale (9/7) a pari solidità, trim su mozzo (3.5 mm)$Yes$135$Modification$8280402$327$Axial$$$$
+8280689$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$TESLA$Ironbelly$Scalatura in diametro (363.6/349.6), calettamento +1.5, scalatura in numero pale (9/10) a pari solidità$Yes$153.24$Modification$8280940$363.6$Axial$$$$
+8280695$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$DOOWON$OS$Statori per pala 8280172. Statore 8280679 scalato sulla corda 25/20.$Yes$156$Scaling$8280679$420$Straightener$$$$
+8280702$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$DOOWON$OS / JS$Nuovi statori per pala 8280700 (provenienza JLR X590 scal. 400m e 9pale). Profilo aerodinamico fx73cl2152-il. Punto di lavoro da CFD: 2800CMH, 270Pa, 3000rpm.$Yes$156$Scaling$8280700$420$Straightener$$$$
+8280703$$LT4_JECAD$ICM0102023201$CFM Blade$No$HONDA$XJTB$Pala 8280402 scalata su diametro (322/280) e scalata su corda (7/5)$Yes$125.8$Modification$8280402$318$Axial$$$$
+8280705$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$FCA$521-226$Ottimizzazione pala 8280631 mediante calettamenti locali con CFD$Yes$159.5$Design$$378.47$Axial$$$$
+8280724$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$DOOWON$OS / JS$Scalatura sulla corda 11/13 per design CFM#6.$Yes$170$Scaling$8280710$395$Axial$$$$
+8280727$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$MERCEDES$BR167$Ridefinizione profili aerodinamici e reimpilamento tangenziale$Yes$190$Design$$514.4$Axial$$$$
+8280729$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$MERCEDES$BR167$Scalatua sulla corda con rapporto 7/9. Profili inspessiti per mantenere 5mm di spessore massimo$Yes$190$Design$8280728$514.4$Axial$$$$
+8280734$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$MERCEDES$BR167$Pala realizzata mediante geometria simil BROSE con CFD e reimpilamento in Z$Yes$200$Design$$514.4$Axial$$$$
+8280737$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$JLR$21MY Twin Master$Scalata su diametro (356/360), calettatare +2°$Yes$154.5$Modification$8280660$352$Axial$$$$
+8280739$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$CLAR-G65$Statore da metodo di progetto per FAN0125$Yes$212.83$Scaling$$505$Axial$$$$
+8280740$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$Mahindra$Scalatura sul diametro 435/460 - spessore anello 2mm (fattore 431/456)$Yes$139.94$Scaling$8280578$432.14$Axial$$$$
+8280751$$LT4_JECAD$ICM0102023201$CFM Blade$No$RENAULT$EV2020$Scalata su diametro (390/406). Fattore di scalatura 386/402$Yes$154$Scaling$8280678$402$Axial$$$$
+8280764$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$VW$MQB$Reimpilamento tangenziale, modifica locale profili aerodinamici$Yes$162$Design$8280631$384.4$Axial$$$$
+8280767$$LT4_JECAD$ICM0102023201$CFM Blade$No$BMW$FAAR WE$Spostamento sul raggio di 3.8 [mm], scalare su diametro da 329.6 [mm] a 415 [mm], scalare sulla corda da 7 a 9 pale$Yes$166$Modification$8280402$409.4$Axial$$$$
+8280769$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$PSA$e-CMP$modifica locale per viziatura stampo 8250233$Yes$155.78$Reverse$8280660$355$Axial$$$$
+8280774$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$NISSAN$SUV$STATORE PER PALA 8280763 da CFD.$Yes$150$Design$8280763$346$Straightener$$$$
+8280777$$LT4_JECAD$ICM0102023201$CFM Blade$No$BMW$FAAR WE$Scalatura su diametro: da 435mm a 420mm$Yes$163.6$Modification$8280745$414.4$Axial$$$$
+8280779$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$FAAR WE$Scalatura da diametro 384mm a diametro 420mm$Yes$174.45$Design$8280705$414.4$Axial$$$$
+8280786$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$VOLVO$VEA GEN3$Scalata (da 7 a 8 pale) sulla corda a pari solidità (7/8)$Yes$152.6$Scaling$8280578$456.95$Axial$$$$
+8280798$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$VOLVO$VEA GEN3$Scalata (da 7 a 9 pale) sulla corda a pari solidità (7/9)$Yes$148.06$Scaling$8280578$457.2$Axial$$$$
+8280804$$LT4_JECAD$ICM0102023201$CFM Blade$No$TOYOTA$730B$calettata +2.5°, reimpilato bordo in uscita (0,-1,-2,-3,-3,-3,-3,-3,-3,-2,-1,0,+1,+2,+3)$Yes$145.5$Modification$8280500$301$Axial$$$$
+8280813$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$FAAR WE$Pala progettata con metodo di progetto JE$Yes$170$Design$Design$410$Axial$$$$
+8280820$$LT4_JECAD$ICM0102023201$CFM Blade$No$FIAT$Ferrari F173$Scalata sul diametro ( Dnom = 355mm) - rapporto di scalatura (350/355)$Yes$153.6$Scaling$8280660$350$Axial$$$$
+8280830$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$VW$MQB A1 2nd - 450 [W]$$Yes$170$Design$$424$Axial$$$$
+8280832$$LT4_JECAD$ICM0102023201$CFM Blade$No$BMW$FAAR WE$Reverse UKL Magna scalato in diametro (430/390) e su corda (7/11)$Yes$182.3$Reverse$$409.4$Axial$$$$
+8280258$$LT4_JECAD$ICM0102023201$CFM Blade$No$BMW$600W$scalata su diametro(480/458)$Yes$190$Scaling$8280264$480$Axial$$$$
+8280266$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$AUDI$B8$scalata su diametro(320/326)$Yes$145$Scaling$8280200$320$Axial$$$$
+8280286$$LT4_JECAD$ICM0102023201$CFM Blade$No$BMW$600 W$calettata +1°$Yes$173$Modification$8280264$452$Axial$$$$
+8280304$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$OPEL$DELTA II$$Yes$150$Design$$320$Axial$$$$
+8280312$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$NISSAN USA$ZW$$Yes$110$Scaling$8280078$276$Axial$$$$
+8280329$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$Acustica$scalata su diametro(430/330)$Yes$185.2$Scaling$8280261$430$Axial$$$$
+8280339$$LT4_JECAD$ICM0102023201$CFM Blade$No$FIAT$AR949$scalata su diametro(430/390) e corda, calettata -3°$Yes$177$Modification$8280325$425$Axial$$$$
+8280340$$LT4_JECAD$ICM0102023201$CFM Blade$No$PSA$Q150$scalata su diametro(420/340) e corda, calettata +1°, allineato i profili$Yes$164$Modification$8280252$415$Axial$$$$
+8280354$$LT4_JECAD$ICM0102023201$CFM Blade$No$RIYONG$SGM258$scalata sulla corda 8/9$Yes$198$Modification$8280333$455$Axial$$$$
+8280355$$LT4_JECAD$ICM0102023201$CFM Blade$No$USA$D258$scalata sul diametro(440/368)$Yes$167$Scaling$8280253$435$Axial$$$$
+8280369$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$VW$MQB$scalata su diametro(340/320)$Yes$130$Scaling$8280257$335$Axial$$$$
+8280371$$LT4_JECAD$ICM0102023201$CFM Blade$No$VOLVO$$calettata -3°$Yes$180$Modification$8280344$455$Axial$$$$
+8280376$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$PL7 400W$calettata -1.5°$Yes$180$Modification$8280365$455$Axial$$$$
+8280379$$LT4_JECAD$ICM0102023201$CFM Blade$No$PORSHE$9X1$scalata su diametro(160/285) calettata +1.5°$Yes$80$Modification$8280025$155$Axial$$$$
+8280393$$LT4_JECAD$ICM0102023201$CFM Blade$No$FORD$CD4$scalata su diametro(320/480) scalettata -2°$Yes$127$Modification$8280258$316$Axial$$$$
+8280398$$LT4_JECAD$ICM0102023201$CFM Blade$No$FORD$CD4$scalata sul diametro(322/370) corda come mazda$Yes$125$Modification$8280290$316$Axial$$$$
+8280403$$LT4_JECAD$ICM0102023201$CFM Blade$No$FORD$CD4$calettata +2°$Yes$127$Modification$8280393$316$Axial$$$$
+8280415$$LT4_JECAD$ICM0102023201$CFM Blade$No$VW$PQ24 RUSH$calettata +1° dopo reverse$Yes$145$Reverse$8280038$384$Axial$$$$
+8280418$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$PL7 850W$scalata sulla corda 7/9$Yes$182$Modification$8280395$455$Axial$$$$
+8280426$$LT4_JECAD$ICM0102023201$CFM Blade$No$BMW$PL7 850W$scalata sulla corda 7/11$Yes$182$Modification$8280395$455$Axial$$$$
+8280436$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$MCV$scalata su diametro(322/325) calettata +2°$Yes$138.7$Modification$8280254$317$Axial$$$$
+8280440$$LT4_JECAD$ICM0102023201$CFM Blade$No$FORD$CAC$calettata -3°$Yes$111$Modification$8280439$207$Axial$$$$
+8280441$$LT4_JECAD$ICM0102023201$CFM Blade$No$FORD$CAC$scalata su diametro(212/290) montata su diam. mozzo 111mm,inspessito(0,5/0,5)$Yes$111$Modification$8280400$207$Axial$$$$
+8280452$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$UKL 300W Behr, Valeo$scalata su diametro(410/430) scalata sulla corda, CCW$Yes$164$Modification$8280350$405$Axial$$$$
+8280466$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$RENAULT$EDISON AUS.$$Yes$42$Design$$130$Axial$$$$
+8280486$$LT4_JECAD$ICM0102023201$CFM Blade$No$GM USA$D2UXX$scalata sulla corda 7/10$Yes$137$Modification$8280482$326$Axial$$$$
+8280516$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$UKL$scalata su diametro (422/430)$Yes$166.84$Modification$8280509$417.1$Axial$$$$
+8280522$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$35UP$scalata (460/475) calettata 2°,scalata corda 1.03$Yes$184.73$Modification$8280465$471.2$Axial$$$$
+8280523$$LT4_JECAD$ICM0102023201$CFM Blade$$BMW$35UP$scalata (460/475), scalata corda 1.03$Yes$$Modification$8280465$$Axial$$$$
+8280531$$LT4_JECAD$ICM0102023201$CFM Blade$No$AUDI$Q5$scalato sulla corda (1,2), scalettato -1.5°$Yes$180$Modification$8280365$455$Axial$$$$
+8280532$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$35up$calettata + 3,5°$Yes$185$Modification$8280518$469.4$Axial$$$$
+8280533$$LT4_JECAD$ICM0102023201$CFM Blade$No$BMW$35up$reimpilamento in z, estensione di 1,5 mm al mozzo$Yes$185$Modification$8280492$469.4$Axial$$$$
+8280545$$LT4_JECAD$ICM0102023201$CFM Blade$No$BMW$35UP$scalata su diametro (510/475)$Yes$201.76$Modification$8280481$504.4$Axial$$$$
+8280548$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$NISSAN$W42P$Scalata su diametro (340/445)$Yes$126.9$Scaling$8280507$335.6$Axial$$$$
+8280554$$LT4_JECAD$ICM0102023201$CFM Blade$No$FORD USA$F150$reimpilato in z, variato calettamento locale$No$150$Modification$8280457$386$Axial$$$$
+8280557$$LT4_JECAD$ICM0102023201$CFM Blade$No$RIYONG$SGM358$Scalata su diametro (430/410), calettara +2°$Yes$161.5$Modification$8280483$426$Axial$$$$
+8280562$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BEHR$35up BCX/HCX$Calettata +3°$Yes$210$Modification$8280561$510$Axial$$$$
+8280563$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$MERCEDES$STUDIO$Scalata su diametro (465/425), calettara +1.5, scalatura sulla corda del fattore 1.08 - Reimpilamento i direzione Z per rinforzo$Yes$153.18$Modification$8280480$465$Axial$$$$
+8280572$$LT4_JECAD$ICM0102023201$CFM Blade$No$PSA$BVH2_OS$Scalata su diametro (430/414)$Yes$161$Modification$8280412$425$Axial$$$$
+8280581$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BEHR$35up BCX/HCX$scalata su diametro (504.4/465), calettamento -1.6, scalatura sulla corda (0.7778), primo profilo reimpilato di +7°$Yes$166.15$Modification$8280563$504.4$Axial$$$$
+8280583$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BEHR$35 BCX HP$Scalatura diam. (504.4/465)$Yes$166.15$Modification$8280563$504.40$Axial$$$$$$$$$$
+8280590$$LT4_JECAD$ICM0102023201$CFM Blade$No$FORD$C2 600W EC$scalata su diametro(440/445) e corda(8/10) reimpilato bordo d'ingresso in z e su circonferenza in uscita, calettati profili mozzo apice (+1°)$Yes$164.7$Modification$8280494$435.6$Axial$$$$
+8280615$$LT4_JECAD$ICM0102023201$CFM Blade$No$GM$K2XX$Scalata su corda (8/9) e calettata +3°$Yes$150$Modification$8280553$385$Axial$$$$
+8280623$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$GM$E2UL$calettata -3°$Yes$202$Modification$8280538$514.8$Axial$$$$
+8280633$$LT4_JECAD$ICM0102023201$CFM Blade$No$PORSHE$922$Scalatura pala del rapporto 370/317. Montaggio su mozzo diametro 146mm. Rimozione eccesso pala all'apice. Calettamento -3°$Yes$146$Modification$8280252$370$Axial$$$$
+8280648$$LT4_JECAD$ICM0102023201$CFM Blade$No$$CHX Great Wall Motor$Scalata su diametro (450/460) calettata +3°$Yes$170.2$Modification$8280536$445$Axial$$$$
+8280663$$LT4_JECAD$ICM0102023201$CFM Blade$No$HONDA$Honda Brazil RFQ$Trim & Extend su tutti i bordi di uscita, Continuità + G1 su tutti i bordi di attacco, Scalatura sul diametro (280/410), Scalatura su corda (8/7)$Yes$120$Scaling$8280483$277.27$Axial$$$$
+8280690$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$TESLA$Ironbelly$Scalatura in diametro (363.6/349.6), calettamento -1.5, scalatura in numero pale (11/10) a pari solidità$Yes$153.24$Modification$8280940$363.6$Axial$$$$
+8280692$$LT4_JECAD$ICM0102023201$CFM Blade$No$DOOWON$OS$Scalatura su corda (8/9)$Yes$156$Scaling$8280672$394$Axial$$$$
+8280704$$LT4_JECAD$ICM0102023201$CFM Blade$No$HONDA$XJTB BLDC$Scalata su diametro (360/406)$Yes$0$Scaling$8280678$0$Axial$$$$
+8280707$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$DOOWON$OS / JS$Nuovi statori per pala ventola forward-backward SCK7395.Nuovi statori per pala ventola forward-backward SCK7395 (11x8280710). Profilo aerodinamico fx73cl2152-il. Punto di lavoro da CFD: 2800CMH, 287Pa, 2500rpm.$Yes$156$Scaling$8280710$420$Straightener$$$$
+8280709$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$DOOWON$OS / JS$Pala progettata con metodo di progetto Advanced Eng.$Yes$170$Design$$395$Axial$$$$
+8280718$$LT4_JECAD$ICM0102023201$CFM Blade$No$FIAT$MP$Scalatura su diametro (295/282), scalatura sulla corda del rapporto 7/8$Yes$129.62$Modification$8280714$291$Axial$$$$
+8280730$$LT4_JECAD$ICM0102023201$CFM Blade$No$GM$SSDCproto$scalata su diametro (388/410)$Yes$140$Scaling$8280483$384$Axial$$$$
+8280754$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$FAAR WE$Scalatura su diametro da 384 [mm] a 435 [mm]$Yes$180.6$Design$8250705$429.4$Axial$$$$
+8280760$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$NISSAN$SUV$Scalatura sulla corda 7/9. Cal -1.5°deg.$Yes$150$Scaling$8280759$326$Axial$$$$
+8280778$$LT4_JECAD$ICM0102023201$CFM Blade$No$BMW$FAAR WE$Scalatura su diametro: da 435mm a 415mm$Yes$161.65$Modification$8280745$409.4$Axial$$$$
+8280780$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$FAAR WE$Scalatura da diametro 384mm a diametro 415mm$Yes$172.37$Design$8280705$409.4$Axial$$$$
+8280792$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$USA$Sierra-Mahle$Scalatura sul diametro 341/360 (fattore scalatura 337/355). Calettata +2.5°deg.$Yes$147.88$Modification$8280660$337$Axial$$$$
+8280800$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$FAAR WE BEV$Scalatura da 460mm a 475mm$Yes$154.90$Modification$8280578$469.40$Axial$$$$$$$$$$
+8280802$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$MAZDA$RG7-Large$Scalatura da diametro 430 [mm] a 460 [mm]$No$116.27$Modification$8280635$275.1$Straightener$$$$
+8280817$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$RENAULT$EV2020$Ottimizzazione CFD della pala 8280750 (SCK8472).$Yes$140$Modification$8280750$270$Axial$$$$
+8280821$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$NISSAN$EV2020$Statore per pala 8280784 disegnato da CFD @3000rpm. Punto di lavoro 145Pa / 1725CMH.$No$150$Design$8280784$330$Straightener$$$$
+8280826$$LT4_JECAD$ICM0102023201$CFM Blade$No$NISSAN$P33$Scalatura sul diametro al tip 415/426. Spessore anello 2.5mm.$Yes$159$Scaling$8280726$415$Axial$$$$
+8280829$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$FCA$RU$Scalata su diametro (460/520)$Yes$178.7$Scaling$8280538$455.4$Axial$$$$
+8280831$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$PSA$EMP2 €6.2 CLASSE4$Calettamento pala +4°$Yes$135.05$Modification$8280641$410$Axial$$$$
+8280836$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$FCA$DT$scalatura su diametro (610/520)$Yes$237$Scaling$8280538$604$Axial$$$$
+8280839$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$NISSAN$SUV/P33$MODIFICA PALA DI PARTENZA. - trim mozzo @150mm - trim anello @454.5mm - ricostruzione profili avolti/in piano - scalatura sul diametro al tip 425mm/454.5mm (spessore anello 2.5mm)$Yes$140$Modification$8280578$425$Axial$$$$
+8280853$$LT4_JECAD$ICM0102023201$CFM Blade$No$FCA$RU$Scalata su diametro Dnom=460mm (rapporto scalatura 456/426)$Yes$174.69$Scaling$8280726$456$Axial$$$$
+8280861$$LT4_JECAD$ICM0102023201$CFM Blade$No$MAZDA$P5UK$Scalata a Dnom=340mm (rapporto di scalatura 336/402). Modifica profili (Prop. Offset) per aumento spessore$Yes$128.72$Modification$8280678$336$Axial$$$$
+8280866$$LT4_JECAD$ICM0102023201$CFM Blade$No$MAZDA$RG7 - Large$Scalatura diametro (490/486)- Calettare +1°$Yes$191.6$Scaling$8280428$484.4$Axial$$$$
+8280869$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$SSANGYONG$A200$scalatura su diametro (505/520)$Yes$196.2$Scaling$8280538$500$Axial$$$$
+8280871$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$FAAR WE HIGH$Pala ricavata da 8280852 con modifiche profili (corde, spessori) mediante CFD - Rotazione CCW$Yes$170$Design$8280852$409.4$Axial$$$$
+8280876$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$NISSAN$W61QR-TWIN$Scalatura sul diametro 435/402$Yes$167$Scaling$8280678$435$Axial$$$$
+8280885$$LT4_JECAD$ICM0102023201$CFM Blade$No$FCA$5980$Scalata a Dnom=390mm(rapporto di scalatura 386/426) e variato il calettamento di -2°$Yes$147.88$Scaling$8280726$386$Axial$$$$
+8280889$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$RENAULT$XDD$Scalatura sul diametro 417/454.4$Yes$175.74$Scaling$8280781$417$Axial$$$$
+8280894$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$RIVIAN$Rivian A1-BEV$Scalatura su diametro (465/440)$Yes$0$Scaling$8280782$460$Axial$$$$
+8280912$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$MERCEDES$MMA$Nuova progettazione da DOE CFD su pala origine (modifiche su calettamento e corda sezioni di pala$Yes$172.28$Modification$8280911$466.00$Axial$$$$$$$$$$
+8280918$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$TESLA$Ironbelly$Raddrizzatore NASA/LANGLEY LS(1)-0421 a bassa incidenza, da CFD pala 8280689 ATA 0°@250Pa_2960rpm$Yes$153.24$Design$8280689$363.6$Straightener$$$$
+8280945$$LT4_JECAD$ICM0102023201$CFM Blade$No$MAZDA$J03$Scalatura a Dnom=406mm(rapporto di scalatura 402/437)$Yes$156.06$Scaling$8280943$402$Axial$$$$
+8280989$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$CLAR T3 G65$Calettamento -2°$Yes$212.83$Modification$8280905$505$Axial$$$$
+8280389$$LT4_JECAD$ICM0102023201$CFM Blade$No$FORD$CD4$scalata su diametro(320/480) corda e calettata -3°$Yes$134$Modification$8280277$316$Axial$$$$
+8280401$$LT4_JECAD$ICM0102023201$CFM Blade$No$FORD$CD4$calettata -2°$Yes$125$Modification$8280398$316$Axial$$$$
+8280402$$LT4_JECAD$ICM0102023201$CFM Blade$No$FORD$CD4$calettata +2°$Yes$125$Modification$8280398$316$Axial$$$$
+8280414$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$MCV$scalata su diametro (322/460)$Yes$150$Scaling$8280176$318$Axial$$$$
+8280417$$LT4_JECAD$ICM0102023201$CFM Blade$No$GM USA$GMI 700$scalata su diametro, calettata$Yes$130.6$Modification$8280278$343$Axial$$$$
+8280419$$LT4_JECAD$ICM0102023201$CFM Blade$No$GM USA$K2XX$scalata sulla corda 8/9 dalla rev./01$Yes$147.6$Modification$8280326$385$Axial$$$$
+8280450$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$FAAR WE HIGH HP$Scalatura diametro (415/390) scalatura sulla corda (1.1886) calettare +0.75°$Yes$172.4$Modification$8280631$409.4$Axial$$$$
+8280451$$LT4_JECAD$ICM0102023201$CFM Blade$No$BMW$UKL 600W Behr, Valeo$diventa CCW$Yes$158.6$Modification$8280445$405$Axial$$$$
+8280475$$LT4_JECAD$ICM0102023201$CFM Blade$No$LAND ROVER$D7$scalata sulla corda (9/11)$Yes$190$Modification$8280428$481$Axial$$$$
+8280478$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$IVECO$Daily$scalata su diametro (500/430)$Yes$198$Scaling$8280468$495$Axial$$$$
+1111-5YY0146$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$35UP$scalata su diametro (475/430)$Yes$188$Scaling$8280468$470.6$Axial$$$$
+8280504$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$VW$MQB$calettata +1.5°, scalata sulla corda 8/7$Yes$140$Modification$8280469$425$Axial$$$$
+8280507$$LT4_JECAD$ICM0102023201$CFM Blade$No$FORD$C2$scalata su diametro (440.6/410), corda (8/9), calettata -1.5°$Yes$166.55$Modification$8280438$440.6$Axial$$$$
+8280526$$LT4_JECAD$ICM0102023201$CFM Blade$No$BMW$35UP$scalata (475/415) scalata corda (8/9), reimpilamento z come 518$Yes$185$Modification$8280412$469.5$Axial$$$$
+8280536$$LT4_JECAD$ICM0102023201$CFM Blade$No$FIAT$JK$Scalata su diametro (460/384)$Yes$174$Scaling$8280422$455$Axial$$$$
+8280549$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$NISSAN$PD2A$Scalata su diametro (460/510)$Yes$182.02$Scaling$8280535$455$Axial$$$$
+8280555$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$35UP BCX HP$Calettata +3°$Yes$201.78$Modification$8280535$504.4$Axial$$$$
+8280558$$LT4_JECAD$ICM0102023201$CFM Blade$No$FORD$P552 CAC$Scalata su diametro (190/170)$Yes$96$Scaling$8280360$186$Axial$$$$
+8280566$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$MERCEDES$MFA2$Posizionamento pala su nuovo mozzo (diam.190mm)in direzione radiale e rimozione parte eccedente all'apice$Yes$190.00$Modification$8280563$465.00$Axial$$$$$$$$$$
+8280576$$LT4_JECAD$ICM0102023201$CFM Blade$No$FCA$MP$Scalatura su diametro (295/282)$Yes$129.62$Reverse$8280025$291$Axial$$$$
+8280582$$LT4_JECAD$ICM0102023201$CFM Blade$No$FIAT$329$Scalata sul diametro (390/395)$Yes$150$Scaling$8280505$385$Axial$$$$
+8280591$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$FORD$C2$scalata su diametro (440/385)riduzione spessore con off-set proporzionale (-0.15) calettati profili mozzo apice (+1°)$Yes$143$Modification$8280512$435$Axial$$$$
+8280611$$LT4_JECAD$ICM0102023201$CFM Blade$No$PSA$EMP1$scalata su diametro (370/395)$Yes$143.3$Scaling$8280505$366$Axial$$$$
+8280614$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$GM$K2XX$Scalata su corda (8/7) e calettata -3°$Yes$150$Modification$8280553$385$Axial$$$$
+8280616$$LT4_JECAD$ICM0102023201$CFM Blade$No$GM$K2XX$Scalata su corda (6/7)$No$150$Modification$8280613$386$Axial$$$$
+8280619$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$GM$K2XX revenge$$Yes$150$Design$$385$Axial$$$$
+8280625$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$35UP HCS$Raddrizzatore profili NACA da CFD pala 8280484 (completare dati)$Yes$207.8$Design$8280484$520.2$Straightener$$$$
+8280640$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$MERCEDES$BR167$variazione locale di corda per inserimento Vortex Control Notches (Trailing edge serrations)$Yes$190$Design$8280604$514.4$Axial$$$$
+8280642$$LT4_JECAD$ICM0102023201$CFM Blade$No$R/N$CMFCD$scalata su diametro (420/395)$Yes$161.7$Scaling$8280505$415$Axial$$$$
+8280647$$LT4_JECAD$ICM0102023201$CFM Blade$No$GM$GEM$scalatura su corda per passaggio da 8 a 7 pale e sul diametro 440/410$Yes$154$Scaling$8280483$436$Axial$$$$
+8280658$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$PSA$EMP1 €6.2 CL.2$$Yes$155.78$Design$$355$Axial$$$$
+8280675$$LT4_JECAD$ICM0102023201$CFM Blade$No$FIAT$Hybrid$scalatura su diametro(370/400)$Yes$154.27$Scaling$8280569$395.95$Axial$$$$
+8280676$$LT4_JECAD$ICM0102023201$CFM Blade$No$FCA$MP$Scalatura sulla corda per generare una ventola con 8 pale. Rapporto scalatura corda: 7/8. Inserire 8 pale. Spessore anello 2 mm$Yes$129.62$Reverse$8280576$291$Axial$$$$
+8280683$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$MERCEDES$BR167$Pala simile a 8280668. Calettare pala di 1.5°$Yes$190$Design$8280668$514.4$Axial$$$$
+8280716$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$VW$MQB 2nd Wave$Scalatura sul diametro con rapporto (424.4/384/4) - Inserire 8 pale - SPessore anello da utilizzare su ventola: 2.8 [mm]$Yes$178.86$Design$8280701$424.4$Axial$$$$
+8280728$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$MERCEDES$BR167$Calettare pala di 0.5°$Yes$190$Design$8280727$514.4$Axial$$$$
+8280738$$LT4_JECAD$ICM0102023201$CFM Blade$No$JLR$21MY Twin Slave$scalatura su diametro (260/212) calettare +1° estendere lato mozzo a diam. 135mm$Yes$135$Modification$8280440$256$Axial$$$$
+8280742$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$$$Yes$169$Design$Pala progettata$440$Axial$$$$
+8280743$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$HANON ON$Scalata su diametro 440/370 (rapporto 435/366) + scalatura sulla corda (8/9)$Yes$174$Scaling$8280612$435$Axial$$$$
+8280745$$LT4_JECAD$ICM0102023201$CFM Blade$No$BMW$FAAR WE$Scalatura su diametro (429.4/380), scalatura sulla corda 8/9$Yes$169.5$Modification$8280240$429.4$Axial$$$$
+8280768$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$JLR$21MY Twin Slave$calettare +2°$Yes$135$Modification$8280738$256$Axial$$$$
+8280790$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$JLR$21MLA$Scalatura sulla corda (1.1)$Yes$247.9$Scaling$8280789$619$Axial$$$$
+8280791$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$FAAR WE$Pala progettata con metodo progetto$Yes$170.1$Design$Design$409.3$Axial$$$$
+8280803$$LT4_JECAD$ICM0102023201$CFM Blade$No$BMW$FAAR WE$Scalatura su diametro (415/496) calettare di 1.5°, scalatura su corda (9/11) off-set variabile (3.5mm a 4.5mm) dopo rigenerazione NACA e mirror da CW a CCW$Yes$162.32$Modification$8280456$409.4$Axial$$$$
+8280810$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$FAAR WE$Nuova pala CCW per moduli HIGH and LOW - BMW FAAR WE - LP/MP$Yes$170$Design$New Design$410$Axial$$$$
+8280812$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$MERCEDES$BR167$$Yes$190$Design$$514$Axial$$$$
+8280827$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$MERCEDES$BR167/MG51$Calettare pala: +1.5$Yes$192$Modification$8280683$514.4$Axial$$$$
+8280844$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$FCA$WL 850W$Da pala origine riduzione corda sez.1,2,3 (coefficienti 0.8,0.88,0.95) per ottimizzazione aeroacustica.$Yes$202$Modification$8280538$514.8$Axial$$$$
+8280848$$LT4_JECAD$ICM0102023201$CFM Blade$No$MAZDA$RG7 - Large$Scalatura da diametro 460 [mm] a diametro 490 [mm]$Yes$186.8$Scaling$8280801$484$Axial$$$$
+8280877$$LT4_JECAD$ICM0102023201$CFM Blade$No$NISSAN$W61QR-TWIN$Scalatura sul diametro 326/410.$Yes$135$Scaling$8280813$326$Axial$$$$
+8280881$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$FAAR WE HIGH$Scalettata di tre gradi (-3°)$Yes$180$Modification$8280880$409.4$Axial$$$$
+8280886$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$MERCEDES$BR214$New blade design a 520$Yes$192.3$Design$Design$494.4$Axial$$$$
+8280895$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$MERCEDES$BR214$Modifica impilamento assiale dz sez2 (-4mm) e sez4 (+5mm) dopo analisi strutturale$Yes$183$Modification$8280863$495$Axial$$$$
+8280901$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$MERCEDES$BR214$Scalatura a pari solidità da 7 a 9 pale (rapporto di scalatura 7/9)$Yes$183.00$Modification$8280858$495.00$Axial$$$$$$$$$$
+8280903$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$FORD$CD542 Lincoln$variazione calettamento +1.5° variazione sweep(-2°,-0.5°,0,0,0.5°,0,0,0.25°,0.5°,+1.5°,+2.5°,+3.1°,3.5°)$Yes$183.3$Modification$8280782$435$Axial$$$$
+8280905$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$PSA$EMP2 V4 CL5$Scalatura diametro (430/440) variazione calettamento +3°, aumento sweep (0,0,0,0,0,0,0,0,+0.5°,+1°,+2°,+2.6°,+3.5°)$Yes$179.1$Modification$8280782$425$Axial$$$$
+8280914$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$ZOOX$Zoox EV$Raddrizzatore NACA4412 a bassa incidenza, da CFD pala 8280938 ATA 0°@40Pa_2100rpm$Yes$139$Design$8280938$261$Straightener$$$$
+8280922$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$TESLA$Model 3 - Model Y$scalatura su diametro (370/430)$Yes$132.7$Scaling$8280806$366$Axial$$$$
+8280928$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$PSA$MEHV P2 eAWD$scalatura su diametro (376/370)$Yes$135$Scaling$8280922$372$Axial$$$$
+8280938$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$ZOOX$Zoox EV$Scalatura su diametro (261/270) e cambio numero pale (7/9) con riduzione solidità, calettamento +1.5, modifica mozzo dopo scalatura (+4mm)$Yes$139$Modification$8280817$261$Axial$$$$
+8280953$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$MERCEDES$MMA BEV 500W LK2$Ottimizzazione CFD + CAA a partire da FAN0057-01$Yes$172$Modification$$466$Axial$$$$
+8280968$$LT4_JECAD$ICM0102023201$CFM Blade$No$PSA$MHEV P2 eAWD$calettamento +1.5° impilamento circonferenziale (0,0,0,0,0,0,+0.5,+0.5,+1,+2.5,+4.5)$Yes$146$Modification$8280929$372$Axial$$$$
+8280972$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$NCAR$Statore progettato 2700RPM@200Pa$No$179.2$Design$8280905$425$Straightener$$$$
+8280978$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$G65_BEV$Scalatura diametro 510/430 scalatura corda 0.68 calettatura -3°$Yes$212.8$Modification$8280905$505$Axial$$$$
+8280841$$LT4_JECAD$ICM0102023201$CFM Blade$No$RENAULT$HJD HHA PH2 main CFM$Scalatura sul diametro: al tip 379/391. Spessore anello 2.5mm$Yes$147.66$Scaling$8280505$379$Axial$$$$
+8280846$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$VW$MQB A1 2nd - 450 [W]$Pala definita mediante metodo progetto pale$Yes$170$Design$$424.4$Axial$$$$
+8280849$$LT4_JECAD$ICM0102023201$CFM Blade$No$RENAULT$HJD-HR13 (MAIN)$Scalatura diametro 379/316 (spessore anello 2.5mm). Scalatura corda 7/8 (da 7 a 8 pale).$Yes$150$Scaling$8280402$379$Axial$$$$
+8280855$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$VOLVO$620D$$Yes$136$Design$$296$Axial$$$$
+8280860$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$MERCEDES$BR214$Scalata a Dnom=500mm (rapporto di scalatura 495/514)$Yes$183$Scaling$8280683$495$Axial$$$$
+8280862$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$MERCEDES$BR167$Scalatura sul diametro rapporto 514/440.$Yes$187$Scaling$8280856$514$Axial$$$$
+8280873$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$FAAR WE HIGH$Scalatura sulla corda del valore 1.12, calettamento -0.5°,$Yes$170$Design$8280852$409.4$Axial$$$$
+8280880$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$FAAR WE HIGH$New Design$Yes$180$Design$$410$Axial$$$$
+8280882$$LT4_JECAD$ICM0102023201$CFM Blade$No$NISSAN$LZ2A$Scalata su diametro (450/490)$Yes$176$Scaling$8280866$445$Axial$$$$
+8280897$$LT4_JECAD$ICM0102023201$CFM Blade$No$GM$C1$Scalata a Dnom=535mm(rapporto di scalatura 529/503.8)$Yes$207.9$Scaling$8280643$529$Axial$$$$
+8280900$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$GM$C1$Progetto 2D da flusso in uscita CFD ventola 8250222(Q=2.18m3/s)$Yes$207.9$Design$8280897$547$Straightener$$$$
+8280911$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$MERCEDES$MMA$Modifica calettamento sezioni (-2°)$Yes$172.28$Modification$8280910$466$Axial$$$$
+8280913$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$VW$MEB2$DOE strutturale scalatura in diametro (460/410) scalettamento -1°,scalatura su corda (0,94667),impilamenti in z(-2,2,-2,2,2,2,2,2,2,1,-1,0,0)$Yes$191.5$Modification$8280837$454.4$Axial$$$$
+8280915$$LT4_JECAD$ICM0102023201$CFM Blade$No$FORD$CD706/707$Modifica e ottimizzazione cfd fatta in RY$Yes$198$Modification$8280643$505$Axial$$$$
+8280936$$LT4_JECAD$ICM0102023201$CFM Blade$No$RENAULT$CMFB-Euro7$Scalata su diametro (356/402), diametro al mozzo modificato dopo scalatura$Yes$152$Scaling$8280678$356$Axial$$$$
+8280957$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$PSA$MHEV CL4$scaltura su diametro (376/370)$Yes$163.2$Scaling$8280930$372$Axial$$$$
+8280959$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$RENAULT$CMFB Eu7$Raddrizzatore NASA/LANGLEY LS(1)-0421 a bassa incidenza, da CFD pala 8280907 ATA 0°@240Pa_3350rpm$Yes$156.3$Design$8280907$356$Straightener$$$$
+8280002$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$8212 SK2$$Yes$122$$$300$Axial$$$$
+8280006$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$$$Yes$152$Design$$366$Axial$$$$
+8280044$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$B5 1$$Yes$124$Scaling$$275$Axial$$$$
+8280045$$LT4_JECAD$ICM0102023201$CFM Blade$No$$4525 L$lisciata$Yes$110$Modification$$282$Axial$$$$
+8280049$$LT4_JECAD$ICM0102023201$CFM Blade$No$AUDI$$SW Autofan$Yes$124$Design$$262$Axial$$$$
+8280056$$LT4_JECAD$ICM0102023201$CFM Blade$No$$T1$$Yes$124$Scaling$8280055$321$Axial$$$$
+8280057$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$$$Yes$124$Scaling$8280044$275$Axial$$$$
+8280091$$LT4_JECAD$ICM0102023201$CFM Blade$No$OPEL$$$Yes$140$Scaling$8280077$364$Axial$$$$
+8280093$$LT4_JECAD$ICM0102023201$CFM Blade$No$OPEL$$Reverse$Yes$124$Reverse$8280038$262$Axial$$$$
+8280098$$LT4_JECAD$ICM0102023201$CFM Blade$No$OPEL$$modificata per ingombro$Yes$124$Scaling$8280095$270$Axial$$$$
+8280100$$LT4_JECAD$ICM0102023201$CFM Blade$No$AUDI$B5$Reverse$Yes$128$Reverse$8280025$264$Axial$$$$
+8280102$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$$antioraria$Yes$140$Modification$8280075$366$Axial$$$$
+8280103$$LT4_JECAD$ICM0102023201$CFM Blade$No$$$$Yes$140$Scaling$8280091$364$Axial$$$$
+8280105$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$VOLVO$F9QT$$Yes$140$Scaling$8280053$366$Axial$$$$
+8280117$$LT4_JECAD$ICM0102023201$CFM Blade$No$$SEAT$$Yes$120$Scaling$8280078$281$Axial$$$$
+8280126$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$VALEO$$$Yes$117$Scaling$8280125$305$Axial$$$$
+8280128$$LT4_JECAD$ICM0102023201$CFM Blade$No$$A806$$Yes$130$Scaling$8280116$320$Axial$$$$
+8280136$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$OPEL$$reverse$Yes$135$Reverse$$290$Axial$$$$
+8280138$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$PSA$X4-VN7$reverse$Yes$146$Reverse$$368$Axial$$$$
+8280141$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$OPEL$$$Yes$135$Scaling$8280136$290$Axial$$$$
+8280166$$LT4_JECAD$ICM0102023201$CFM Blade$No$$UTRC$$Yes$127$Design$$320$Axial$$$$
+8280168$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$STUDIO$$Yes$310$Design$$456$Axial$$$$
+8280176$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$STUDIO$$Yes$210$Design$$456$Axial$$$$
+8280177$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$B837$Reverse$Yes$127$Reverse$$291$Axial$$$$
+8280201$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$GMT257$$Yes$136$Design$$329$Axial$$$$
+8280250$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$DELPHI$EPSILON2$ridotto spessore$Yes$140$Modification$8280208$330$Axial$$$$
+8280251$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$AUDI$B8$$Yes$161$Design$$345$Axial$$$$
+8280252$$LT4_JECAD$ICM0102023201$CFM Blade$No$OPEL$NWA$scalata su diametro(340/350)$Yes$132$Scaling$8280241$335$Axial$$$$
+8280257$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$DELPHI$EPSILON2$rivestita naca$Yes$123$Modification$8280256$320$Axial$$$$
+8280284$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$FORD$EUCD$$Yes$148$Design$$365$Axial$$$$
+1112-5YY0007$$LT4_JECAD$ICM0102023201$CFM Blade$No$AUDI$B8$calettata +1,5°$Yes$153$Modification$8280271$364$Axial$$$$
+8280293$$LT4_JECAD$ICM0102023201$CFM Blade$No$VW$PQ24$scalata su diametro(385/370)$Yes$145$Scaling$8280162$379.4$Axial$$$$
+8280295$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$FORD USA$D4$oala america. scalata sulla corda$Yes$140$Modification$8280020$366$Axial$$$$
+8280298$$LT4_JECAD$ICM0102023201$CFM Blade$No$PSA$A7$calettata pala da 0 a -6 e reimpilata$Yes$150$Modification$8280165$366$Axial$$$$
+8280301$$LT4_JECAD$ICM0102023201$CFM Blade$No$DELPHI$DELTA2$scalata su diametro e corda$Yes$140$Modification$8280278$365$Axial$$$$
+8280302$$LT4_JECAD$ICM0102023201$CFM Blade$No$FORD$C307$scalata sul diametro(370/325) scalettata -3°$Yes$159.5$Modification$8280255$365$Axial$$$$
+8280306$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$FORD USA$U377$$Yes$140$Design$$316$Axial$$$$
+8280323$$LT4_JECAD$ICM0102023201$CFM Blade$No$FIAT$UNO$scalata e calettata$Yes$120$Modification$8280278$315$Axial$$$$
+8280328$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$Acustica$scalata su diametro(250/330)$Yes$106$Scaling$8280261$246$Axial$$$$
+8280333$$LT4_JECAD$ICM0102023201$CFM Blade$No$JAGUAR$X250$modificato bordo di uscita curvat. moderato dalla 97$Yes$198$Modification$8280318$455$Axial$$$$
+8280338$$LT4_JECAD$ICM0102023201$CFM Blade$No$FIAT$AR939$scalettata -3°$Yes$180.5$Modification$8280330$425$Axial$$$$
+8280352$$LT4_JECAD$ICM0102023201$CFM Blade$No$PSA$Q150$scalata sul diametro (420/390) reverse ventola SCH7714 (ID5502)$Yes$160$Modification$8280249$415$Axial$$$$
+8280357$$LT4_JECAD$ICM0102023201$CFM Blade$No$PSA$B7$reverse$Yes$140$Reverse$8280290$365$Axial$$$$
+8280363$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$PL7 300W$scalata su diametro(430/460)$Yes$140$Scaling$8280197$425$Axial$$$$
+8280368$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$VW$MQB$calettata -3°$Yes$124$Modification$8280025$277$Axial$$$$
+8280383$$LT4_JECAD$ICM0102023201$CFM Blade$No$FORD$CD4$scalata su diametro(320/480) corda$Yes$132$Modification$8280277$315$Axial$$$$
+8280390$$LT4_JECAD$ICM0102023201$CFM Blade$No$FORD$CD4$scalata su diametro(320/430) corda$Yes$127$Modification$8280377$316$Axial$$$$
+8280395$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$PL7 600W$scalata su diam. e corda, reimpilato i profili$Yes$182$Reverse$8280350$455$Axial$$$$
+8280416$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$UKL$BMW$scalata su diametro(426/460)$Yes$168.5$Scaling$8280395$421$Axial$$$$
+8280443$$LT4_JECAD$ICM0102023201$CFM Blade$No$BMW$UKL$scalata su diametro(410/340)$Yes$158.6$Scaling$8280252$405$Axial$$$$
+8280449$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$RENAULT$$$Yes$200$Scaling$8280360$475$Axial$$$$
+8280455$$LT4_JECAD$ICM0102023201$CFM Blade$No$MASERATI$M156$scalata sulla corda (1,05), calettata +2,5$Yes$190$Modification$8280428$481$Axial$$$$
+8280458$$LT4_JECAD$ICM0102023201$CFM Blade$No$GM USA$K2XX$scalata su diametro(390/414)$Yes$150$Scaling$8280431$390$Axial$$$$
+8280480$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$VW$MQB$backward$Yes$140$Modification$8280469$425$Axial$$$$
+8280491$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$35UP$scalata su diametro(531/497) calettata -0,5°$Yes$176$Modification$8280197$526$Axial$$$$
+8280506$$LT4_JECAD$ICM0102023201$CFM Blade$No$FORD$C34X$calettata +4°$Yes$153$Modification$8280505$391$Axial$$$$
+8280511$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$35UP$reimpilamento Forward off-set classico 0,3mm e trim all'apice di 0,3mm$Yes$188$Modification$8280481$469.4$Axial$$$$
+8280539$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$GM$INOVAR GMI700$scalata su diametro (520/430), corda 7/8 scalettata -4°, reimpilata secondo FEA$Yes$170$Modification$8280504$516$Axial$$$$
+8280569$$LT4_JECAD$ICM0102023201$CFM Blade$No$FIAT$Inovar Brasil$scalatura su diametro(370/395)$Yes$142.7$Scaling$8280505$366.25$Axial$$$$
+8280570$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$VOLVO$CMA$Scalata su diametro (460/430)$Yes$149.8$Scaling$8280504$455$Axial$$$$
+8280589$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BEHR$35 BCX HP$Rivestimento proporzionale 0,25mm (normale alla linea media)$Yes$166.15$Modification$8280583$504.4$Axial$$$$
+8280594$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$FORD$C2 500W DC$reimpilamento assiale per struttura$Yes$143$Modification$8280591$435$Axial$$$$
+8280595$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$MERCEDES$MFA2$Mirroring pala per invertire senso di rotazione$Yes$190$Modification$8280566$465$Axial$$$$
+8280597$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$VW$MQB$Scalatura sulla corda del rapporto 7/9 per realizzare una ventola 9 pale$Yes$170$Design$8280509$425$Axial$$$$
+8280598$$LT4_JECAD$ICM0102023201$CFM Blade$No$FIAT$JL$scalata su diametro (480/445) trim di 0.25mm all'apice$Yes$179.55$Scaling$8280507$474.5$Axial$$$$
+8280620$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$GM$K2XX revenge$$Yes$150$Design$$384.85$Axial$$$$
+8280622$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$FORD$CD4.1-CD391E Panther$Scalata su diametro (430/460), traslata sul raggio +1,5 mm e trimmata all'apice 1,5 mm$Yes$140.1$Modification$8280578$425$Axial$$$$
+8280630$$LT4_JECAD$ICM0102023201$CFM Blade$No$GM$48V$Traslazione su raggio (-3.5mm). Calettamento (+3°). Trim (317mm). Scalatura su diametro (397/322).$Yes$154.6$Modification$8280252$392$Axial$$$$
+8280632$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$MERCEDES$CFCP-Evo - FUEL CELL$Pala calettata di +5°$Yes$190$Design$8280604$514.4$Axial$$$$
+8280637$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$FORD$C2 LX61-8C607-AA LP$scalata su diametro (500/440) scalatura su corda (7/10) off-set proporzionale (0.2767) variazione calettamento (-3°)$Yes$161.17$Modification$8280601$494.5$Axial$$$$
+8280651$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$UniGE psicoacustica$scalatura su diametro (448.5/460) scalatura sulla corda (11/9)$Yes$166.5$Scaling$8280602$443.48$Axial$$$$
+8280655$$LT4_JECAD$ICM0102023201$CFM Blade$No$$Winglet$Scalata su corda (9/5) scalata su corda (0.96) reimpilata secondo deformata trim a 340mm aggiunto winglet su estradosso$No$135$Modification$8280508$340$Axial$$$$
+8280656$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$FAAR WE HIGH$New blade design$Yes$170$Design$Design$410$Axial$$$$
+8280659$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$HYUNDAI$Hyundai FN$Calettamento pala: +3°$Yes$150$Modification$8280578$455$Axial$$$$
+8280660$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$PSA$EMP1 €6.2 CL.2$$Yes$155.78$Design$$355$Axial$$$$
+8280662$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$GM$9BUx$scalatura su diametro 460/520$Yes$192.3$Design$8280635$455$Straightener$$$$
+8280667$$LT4_JECAD$ICM0102023201$CFM Blade$No$GM$GEM$scalatuta su diametro(410/320) ricostruito profilo mozzo ed estensione pala verso mozzo di 7mm$Yes$154$Modification$8280473$405$Axial$$$$
+8280670$$LT4_JECAD$ICM0102023201$CFM Blade$No$MERCEDES$BR167 - HP$scalata su diametro del rapporto 1.1675 (514.4/440), calettata +1°, reimpilamento in direzione assiale per contenimento spostamento (freccia massima di 9mm in direzione flusso, al 78.57% dello span)$Yes$192$Modification$8280507$514.4$Axial$$$$
+8280687$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$TESLA$Model S$Raddrizzatore NASA/LANGLEY LS(1)-0421 a bassa incidenza, da CFD pala 8280402 ATA 0°@197Pa_3550rpm$No$135$Design$8280685$327$Straightener$$$$
+8280698$$LT4_JECAD$ICM0102023201$CFM Blade$No$DOOWON$OS$nuova pala per OS. Scalatura diametro (400/405) + scalatura su corda 8/9.$Yes$168$Modification$8280097$395$Axial$$$$
+8280708$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$PSA$CMP$Scalata su diametro (370/360)$Yes$160.61$Scaling$8280660$366$Axial$$$$
+8280710$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$DOOWON$OS / JS$Pala progettata con metodo di progetto Advanced Eng.$Yes$170$Design$$395$Axial$$$$
+8280711$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$DOOWON$OS - JS$Scalattura sul diametro 400/325$Yes$172.00$Scaling$8280214$394.00$Axial$$$$$$$$$$
+8280722$$LT4_JECAD$ICM0102023201$CFM Blade$No$FORD USA$cd6_new_dev.(bronco)$Scalata sul diametro (500/386) scalata su corda (7/8)$No$194.3$Scaling$8280617$500$Axial$$$$
+8280723$$LT4_JECAD$ICM0102023201$CFM Blade$No$JLR$L460 visco rep$Scalatura sul diametro (625/475) Calettamento pala (-1.5°) Scalatura sulla corda (9/11) ridotto spessore proporzionale 2-3-4 profilo$Yes$247.9$Modification$8280518$619$Axial$$$$
+8280020$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$8125 X65$$Yes$140$Design$$366$Axial$$$$
+8280021$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$8125 X65$curvatura modificata$Yes$140$Modification$8280020$366$Axial$$$$
+8280023$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$$SW Tecnalys$Yes$150$Design$$370$Axial$$$$
+8280028$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$$SW Tecnalys$Yes$150$Design$$370$Axial$$$$
+8280030$$LT4_JECAD$ICM0102023201$CFM Blade$No$$$$Yes$160$Design$$392$Axial$$$$
+8280033$$LT4_JECAD$ICM0102023201$CFM Blade$No$$C5$$Yes$124$Scaling$8280025$262$Axial$$$$
+8280034$$LT4_JECAD$ICM0102023201$CFM Blade$No$$$$Yes$150$Design$$366$Axial$$$$
+8280038$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$$$Yes$160$Design$$392$Axial$$$$
+8280042$$LT4_JECAD$ICM0102023201$CFM Blade$No$PORSHE$$$Yes$80$Modification$8280041$186$Axial$$$$
+8280046$$LT4_JECAD$ICM0102023201$CFM Blade$No$$$SW Tecnalys$Yes$140$Design$$366$Axial$$$$
+8280060$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$Z8$$Yes$130$Design$$366$Axial$$$$
+8280061$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$AUDI$B5$SW Autofan$Yes$124$Design$$266$Axial$$$$
+8280063$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$AUDI$B5$SW Autofan$Yes$124$Design$$266$Axial$$$$
+8280068$$LT4_JECAD$ICM0102023201$CFM Blade$No$PIAGGIO$$$Yes$35$Design$$75$Axial$$$$
+8280071$$LT4_JECAD$ICM0102023201$CFM Blade$No$$$$Yes$164$Design$$366$Straightener$$$$
+8280725$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$RENAULT$XFK$Scalatura sul diametro 420/460$Yes$135.19$Scaling$8280578$417.45$Axial$$$$
+8280732$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$MERCEDES$BR167$Pala realizzata mediante geometria simil BROSE con CFD$Yes$200$Design$$514.4$Axial$$$$
+8280733$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$MERCEDES$BR167$Pala realizzata secondo geometria riferimento BROSE con CFD$Yes$200$Design$$514.4$Axial$$$$
+8280735$$LT4_JECAD$ICM0102023201$CFM Blade$No$MAZDA$RG7-X2$scalata su diametro (390/410)$Yes$146.41$Scaling$8280483$386$Axial$$$$
+8280744$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$IVECO$DAILY$Pala calettata di -2°$Yes$202$Scaling$8280538$514.8$Axial$$$$
+8280747$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$IVECO$DAILY$Scatura su diametro (520/475) del rapporto (514.4/469.4) riduzione spessore a 5.5mm con off-set proporzionale$Yes$206.02$Modification$8280520$514.4$Axial$$$$
+8280749$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$RENAULT$EV2020$scalata sulla diametro (270/290). Fattore di scalatura 270/290.$Yes$139$Scaling$8280400$270$Axial$$$$
+8280756$$LT4_JECAD$ICM0102023201$CFM Blade$No$RENAULT$EV2020$Scalatura sul diametro 295/322 (fattore di scalatura 291/317). Scalatura sulla corda 8/10. Offset +0.2mm sui profili. Trim al mozzo diam 150mm. Cal -0.75°deg.$Yes$150$Modification$8280713$291$Axial$$$$
+8280762$$LT4_JECAD$ICM0102023201$CFM Blade$No$NISSAN$SUV$Scalata su diametro (330/322). Fattore di scalatura 325/317. Cal +0.75°deg.$Yes$150$Modification$8280430$325$Axial$$$$
+8280763$$LT4_JECAD$ICM0102023201$CFM Blade$No$NISSAN$SUV$Scalatura sulla corda 8/10. Cal -1.5°deg.$Yes$150$Modification$8280762$325$Axial$$$$
+8280765$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$FCA$553-523$Raddrizzatore profili NACA a bassa incidenza, da CFD pala JK 8280776 ATA 4°@ 275Pa_2950rpm$Yes$175.55$Design$8280776$415.4$Straightener$$$$
+8280771$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$PSA$EMP1 €6.2 CL.2$scalatura corda (8/7) calettamento +2°$Yes$160.6$Modification$8280708$366$Axial$$$$
+8280772$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$PSA$CMP$Scalata su corda (8/7)$Yes$146.4$Modification$8280612$366$Axial$$$$
+8280783$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$RENAULT$EV2020$Pala backward progettata con metodo di progetto.$Yes$150$Design$Pala progettata da zero con metodo di progetto$286$Axial$$$$
+8280785$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$MERCEDES$BR167$viziatura pala BR con aumento di corda e offset locali$Yes$190$Reverse$8280634$514.4$Axial$$$$
+8280807$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$VW$MQB 3rd Tranche 300W$scalatura in diametro (430/460)$Yes$179.1$Scaling$8280781$425$Axial$$$$
+8280815$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$JLR$21MLA$Scalatura su corda (0.98)riduzione calettamento (-1°)$Yes$248$Modification$8280723$619$Axial$$$$
+8280824$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$VW$MQB 2nd Wave$Ventola da new design method per ventola 11 pale.$Yes$176$Design$$424.4$Axial$$$$
+8280834$$LT4_JECAD$ICM0102023201$CFM Blade$No$BMW$35UP$specchiata da CW a CCW$Yes$186.4$Scaling$8280492$471.2$Axial$$$$
+8280838$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$MERCEDES$MMA LK2$Scalata a Dnom=470mm (rapporto di scalatura 466/469.4) e scalata sul numero di pale a pari solidità (9/11)$Yes$186.64$Scaling$8280518$466$Axial$$$$
+8280840$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$SSANGYONG$ERAE A200$Versione -00 reimpilata in Z con spostamento parabolico di freccia massima 5mm a raggio medio.$Yes$200$Scaling$8280743$500$Axial$$$$
+8280842$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$FAAR WE$Ventola FAAR WE HP Thinner nuovo design$Yes$170$Design$$410$Axial$$$$
+8280857$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$MERCEDES$BR214$Nuova progettazione da progetto BR167(8280812/sck9031).Variabili modificate = eta, t/c[%] profili$Yes$183$Design$$495$Axial$$$$
+8280864$$LT4_JECAD$ICM0102023201$CFM Blade$No$BMW$FAAR WE$Scalatura sulla corda del fattore di scala 1.1369 (aumento corda e scalatura numero pale da 11 a 9)$Yes$162.00$Modification$8280803$409.40$Axial$$$$$$$$$$
+8280874$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$FCA$B-Segment$Nuovo progetto da database CFD pala 8280710(modifiche principali:profili 6512xx)$Yes$185.75$Design$$386$Axial$$$$
+8280888$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$TOYOTA$812B$Reimpilamento circonferenziale TE secondo pala 8280538 x RY$Yes$145$Reverse$$388$Axial$$$$
+8280893$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$FCA$B-Segment$Scalata a Dnom=390mm(rapporto di scalatura 385/435)$Yes$154$Scaling$8280743$385$Axial$$$$
+8280908$$LT4_JECAD$ICM0102023201$CFM Blade$No$TOYOTA$891B Twin Master$scalatura in diametro (320/395) calettamanto (+4) offset proporzionale sotto i 2.6mm trim di 1mm all'apice$Yes$123.9$Modification$8280505$316$Axial$$$$
+8280917$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$RENAULT$SUV-HHN-HR12$Uniform scaling 423/350.$Yes$178.26$Scaling$8280770$423$Axial$$$$
+8280919$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$VW$MQB 2ndtrance 400WRY$pala sviluppata in RY per$Yes$174$Design$$385$Axial$$$$
+8280920$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$FAAR WE 850W$$Yes$160$Design$Fan Melanie Estra BMW$410$Axial$$$$
+8280952$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$ZOOX$Zoox EV$Raddrizzatore NACA4424 a bassa incidenza, da CFD pala 8280938 0°@40Pa_2100rpm$Yes$139$Design$8280938$261$Straightener$$$$
+8280954$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$RENAULT$CMFB EV$Raddrizzatore NASA/LANGLEY LS(1)-0421 a bassa incidenza, da CFD pala 8280940 ATA 0°@134Pa_3000rpm$Yes$147.4$Design$8280940$349.6$Straightener$$$$
+8280970$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$NCAR$Design con metodo aeroacustico per NCAR$Yes$176.61$Design$$418$Axial$$$$
+8280007$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$$SW ventola$Yes$170$Design$$420$Axial$$$$
+8280012$$LT4_JECAD$ICM0102023201$CFM Blade$No$$5625 D80$$Yes$124$Scaling$$320$Axial$$$$
+8280040$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$8120 C4$$Yes$124$$$290$Axial$$$$
+8280043$$LT4_JECAD$ICM0102023201$CFM Blade$No$PSA$C4$specchiatura pala da CCW a CW$Yes$114.6$Modification$8280039$315$Axial$$$$
+8280048$$LT4_JECAD$ICM0102023201$CFM Blade$No$AUDI$$SW Autofan$Yes$124$Design$$262$Axial$$$$
+8280055$$LT4_JECAD$ICM0102023201$CFM Blade$No$$T1$reimpilamento in z e reimpilamento circonferenziale$Yes$124$Modification$8280012$321$Axial$$$$
+8280114$$LT4_JECAD$ICM0102023201$CFM Blade$$$$$$$$8280107$$$$$$
+8280127$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$$$Yes$140$Scaling$8280075$366$Axial$$$$
+8280137$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$OPEL$$$Yes$135$Scaling$8280136$270$Axial$$$$
+8280149$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$OPEL$2-Apr$$Yes$124$Scaling$8280142$290$Axial$$$$
+8280151$$LT4_JECAD$ICM0102023201$CFM Blade$No$$PQ24 K$$Yes$135$Scaling$8280145$286$Axial$$$$
+8280167$$LT4_JECAD$ICM0102023201$CFM Blade$No$$UTRC$$Yes$110$Design$$320$Axial$$$$
+8280186$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$U231 6P$$Yes$152$Design$$462$Axial$$$$
+8280187$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$U231 6P$$Yes$152$Design$$462$Axial$$$$
+8280188$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$8120178RST$$Yes$152$Scaling$8280178$314$Axial$$$$
+8280200$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$PSA$D2X6B$$Yes$150$Design$$321$Axial$$$$
+8280202$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$PQ35$$Yes$145$Design$$353$Axial$$$$
+8280207$$LT4_JECAD$ICM0102023201$CFM Blade$No$$X4ECI$$Yes$149$Scaling$8280199$367$Axial$$$$
+8280216$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$MP8112DTH$Reverse$Yes$127$Reverse$8280215$292$Axial$$$$
+8280243$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$FORD$EUCD$$Yes$150$$$366$Axial$$$$
+8280245$$LT4_JECAD$ICM0102023201$CFM Blade$No$BMW$$Reverse$Yes$180$Reverse$8280152$460$Axial$$$$
+8280248$$LT4_JECAD$ICM0102023201$CFM Blade$No$PSA$STAR$rev./00 scalata sulla corda calettata reimpilata - rev./01 rivestimento naca$Yes$110$Modification$8280013$325$Axial$$$$
+8280276$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$PSA$Z9$$Yes$140$Design$$320$Axial$$$$
+8280073$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$HH$$Yes$110$Design$$300$Axial$$$$
+8280078$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$$$Yes$100$$$300$Axial$$$$
+8280080$$LT4_JECAD$ICM0102023201$CFM Blade$No$$$$Yes$229$$$374$Straightener$$$$
+8280084$$LT4_JECAD$ICM0102023201$CFM Blade$No$$$$Yes$240$Design$$366$Axial$$$$
+8280089$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$$impilamento sezioni$Yes$140$Modification$8280075$366$Axial$$$$
+8280095$$LT4_JECAD$ICM0102023201$CFM Blade$No$OPEL$$Reverse$Yes$124$Reverse$$290$Axial$$$$
+8280107$$LT4_JECAD$ICM0102023201$CFM Blade$No$$T5 100W$$Yes$120$Design$$360$Axial$$$$
+8280139$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$PSA$X4-VN7$$Yes$146$Scaling$8280138$368$Axial$$$$
+8280140$$LT4_JECAD$ICM0102023201$CFM Blade$No$$MINIVISCO$$Yes$124$Scaling$8280033$262$Axial$$$$
+8280142$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$OPEL$$Reverse$Yes$124$Reverse$$290$Axial$$$$
+8280143$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$X4-V-N7$Reverse$Yes$146$Reverse$$368$Axial$$$$
+8280145$$LT4_JECAD$ICM0102023201$CFM Blade$No$SEAT$GP99M$Reverse$Yes$135$Reverse$$286$Axial$$$$
+8280181$$LT4_JECAD$ICM0102023201$CFM Blade$No$$S4316$Reverse$Yes$140$Reverse$$350$Axial$$$$
+8280189$$LT4_JECAD$ICM0102023201$CFM Blade$No$$S4316SMAll$$Yes$124$Scaling$8280025$261$Axial$$$$
+8280214$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$D2X6$Calettamento pala +6°$Yes$140.00$Scaling$8280200$320.00$Axial$$$$$$$$$$
+8280219$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$TOYOTA$B0$Reverse$Yes$125$Reverse$8280102$300$Axial$$$$
+8280223$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$RENAULT$PLATFORM B$$Yes$140$Design$$331$Axial$$$$
+8280225$$LT4_JECAD$ICM0102023201$CFM Blade$No$$PQ24$$Yes$150$Scaling$8280172$379$Axial$$$$
+8280228$$LT4_JECAD$ICM0102023201$CFM Blade$No$$PQ24N$Reverse$Yes$150$Reverse$$382$Axial$$$$
+8280233$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$AUDI$PQ46 MASTER$$Yes$140$Scaling$8280200$348$Axial$$$$
+8280235$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$PSA$Z9$$Yes$150$Scaling$8280216$360$Axial$$$$
+1112-5YY0002$$LT4_JECAD$ICM0102023201$CFM Blade$No$FIAT$199$reimpilato in z e calettata da 5° a 6°$Yes$124$Reverse$8280236$284$Axial$$$$
+1112-5YY0003$$LT4_JECAD$ICM0102023201$CFM Blade$No$NISSAN$L11K$scalata su diametro$Yes$136$Scaling$8280172$345$Axial$$$$
+8280256$$LT4_JECAD$ICM0102023201$CFM Blade$No$DELPHI$EPSILON2$scalata su diametro(325/258)$Yes$123$Scaling$8280249$320$Axial$$$$
+8280263$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$$$Yes$140$Scaling$8280261$325$Axial$$$$
+8280265$$LT4_JECAD$ICM0102023201$CFM Blade$No$FORD$EUCD$$Yes$140$Scaling$8280249$365$Axial$$$$
+8280268$$LT4_JECAD$ICM0102023201$CFM Blade$No$VW$PQ24N$Reverse$Yes$140$Reverse$$380$Axial$$$$
+8280273$$LT4_JECAD$ICM0102023201$CFM Blade$No$PSA$X7$reimpilato bordo di uscita$Yes$150$Modification$8280207$368$Axial$$$$
+8280274$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$$acustica modificato bordo d'uscita$Yes$140$Modification$8280261$325$Axial$$$$
+8280275$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$PSA$A7 450w$scalata sul diametro(370/325)$Yes$150$Scaling$8280215$365$Axial$$$$
+8280278$$LT4_JECAD$ICM0102023201$CFM Blade$No$VW$PQ35 Sing$$Yes$147.6$Scaling$8280249$385$Axial$$$$
+8280279$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$FORD$CD378USA$scalata sul diametro(305/370)$Yes$140$Scaling$8280203$305$Axial$$$$
+8280290$$LT4_JECAD$ICM0102023201$CFM Blade$No$FORD$C1$calettata +1°$Yes$140$Modification$8280246$365$Axial$$$$
+8280292$$LT4_JECAD$ICM0102023201$CFM Blade$No$NISSAN$L11K$scalata sulla corda$Yes$136$Modification$8280241$345$Axial$$$$
+8280297$$LT4_JECAD$ICM0102023201$CFM Blade$No$VW$B8$scalata su diametro(269/268) e reimpilata$Yes$128$Modification$8280100$264$Axial$$$$
+8280320$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$600W$Reverse$Yes$195$Reverse$$453$Axial$$$$
+8280325$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$VW$PQ35$$Yes$160$Design$$385$Axial$$$$
+8280334$$LT4_JECAD$ICM0102023201$CFM Blade$No$PSA$IRYS$scalata sul diametro(415/370) calettata +1.5°$Yes$155$Modification$8280246$410$Axial$$$$
+8280335$$LT4_JECAD$ICM0102023201$CFM Blade$No$OPEL$DELTA II$scalata su diametro(395/300) corda, reimpilato profili$Yes$150$Modification$8280078$390$Axial$$$$
+8280341$$LT4_JECAD$ICM0102023201$CFM Blade$No$JAGUAR$X250$calettata +2°$Yes$180$Modification$8280324$455$Axial$$$$
+8280342$$LT4_JECAD$ICM0102023201$CFM Blade$No$JAGUAR$X250$scalata sulla corda 11/13, aumentato lo spessore$Yes$198$Modification$8280337$455$Axial$$$$
+8280346$$LT4_JECAD$ICM0102023201$CFM Blade$No$JAGUAR$X250$calettata +1°$Yes$180$Modification$8280344$455$Axial$$$$
+8280359$$LT4_JECAD$ICM0102023201$CFM Blade$No$RIYONG$DELTA II$scalata sul diametro(390/430) reimpilato i profili$Yes$145$Modification$8280358$389.5$Axial$$$$
+8280365$$LT4_JECAD$ICM0102023201$CFM Blade$No$BMW$PL7 600W$calettata -1.5°$Yes$180$Modification$8280324$455$Axial$$$$
+8280370$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$VW$MQB$scalata su diametro(390/160) corda$Yes$145$Modification$8280218$385$Axial$$$$
+8280375$$LT4_JECAD$ICM0102023201$CFM Blade$No$TOYOTA$B0$scalata sulla corda$Yes$110$Modification$8280230$325$Axial$$$$
+8280384$$LT4_JECAD$ICM0102023201$CFM Blade$No$FORD$CD4$scalata su diametro (320/405)$Yes$132$Scaling$8280097$315$Axial$$$$
+8280397$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$LAND ROVER$PLA$calettata +13°$Yes$150$Modification$8280215$295$Axial$$$$
+8280410$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$PL7 850W$scalata sulla corda 7/11$Yes$182$Modification$8280396$455$Axial$$$$
+8280421$$LT4_JECAD$ICM0102023201$CFM Blade$No$GM USA$K2XX$scalata sul diametro(390/440)$Yes$150$Scaling$8280356$385$Axial$$$$
+8280422$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$VW$PQ24 RUSH$Reimpilato i profili dopo reverse$Yes$145$Reverse$$379.4$Axial$$$$
+8280432$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$i16_i17$Scalatura pala da 313 mm a 303 mm$Yes$140$Scaling$8280345$298$Axial$$$$
+8280456$$LT4_JECAD$ICM0102023201$CFM Blade$No$MASERATI$M156$scalata su diametro(496/486)$Yes$194$Scaling$8280455$490.4$Axial$$$$
+8280462$$LT4_JECAD$ICM0102023201$CFM Blade$No$VW$MQB$scalata su diametro(390/430) calettata +3°$Yes$162$Modification$8280437$385$Axial$$$$
+8280471$$LT4_JECAD$ICM0102023201$CFM Blade$No$GM USA$31XX$scalata su diametro(467/425) sulla corda (8/11),$Yes$214$Modification$8280435$562$Axial$$$$
+8280482$$LT4_JECAD$ICM0102023201$CFM Blade$No$GM USA$D2UXX$scalata su diametro (330/320)$Yes$137$Scaling$8280479$326$Axial$$$$
+8280483$$LT4_JECAD$ICM0102023201$CFM Blade$No$GM USA$D2UXX$scalata su diametro (410/415)$Yes$154$Scaling$8280412$406$Axial$$$$
+8280494$$LT4_JECAD$ICM0102023201$CFM Blade$No$FORD$C2$scalata su diametro (445/415)$Yes$166.6$Scaling$8280412$440.7$Axial$$$$
+8280497$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$35UP$scalata su diametro (530/497) corda 1.03, calettata 2°$Yes$175.3$Modification$8280197$526$Axial$$$$
+8280499$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$TOYOTA$B3B4$scalata su diametro (304.5/295) diventa CCW$Yes$150$Modification$8280400$304.5$Axial$$$$
+8280500$$LT4_JECAD$ICM0102023201$CFM Blade$No$TOYOTA$B3B4$scalata su diametro (301/268) sulla corda (8/11), calettata +1°, reimpilata in Z,CCW$Yes$145.5$Modification$8280100$301$Axial$$$$
+8280501$$LT4_JECAD$ICM0102023201$CFM Blade$No$VW$MQB$scalata su diametro(384.4/315) corda 7/8, reimpilata su z$Yes$162$Modification$8280473$384.4$Axial$$$$
+8280518$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$35UP$impilato TE z3max x deformazione assiale$Yes$188$Modification$8280517$469.4$Axial$$$$
+8280519$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$35UP$impilato TE z1/3 tra 511 e zmax$Yes$188$Modification$8280518$469.4$Axial$$$$
+8280524$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$35UP$reimpilamemto tipo 518 x def assiale$Yes$185$Modification$8280523$469.4$Axial$$$$
+8280525$$LT4_JECAD$ICM0102023201$CFM Blade$$AUDI$Q5$calettamento 1.5°$Yes$0$Modification$8280514$0$Axial$$$$
+8280527$$LT4_JECAD$ICM0102023201$CFM Blade$No$BMW$35UP$calettata (2.2°) scalata corda (1.02)$Yes$185$Modification$8280526$469.5$Axial$$$$
+8280534$$LT4_JECAD$ICM0102023201$CFM Blade$No$BMW$35up$calettata +1.1°, scalata corda 1,06$Yes$185$Modification$8280526$469.4$Axial$$$$
+8280537$$LT4_JECAD$ICM0102023201$CFM Blade$No$BMW$35UP$scalata sulla corda (1,06), calettata +1.3$Yes$185$Modification$8280533$469.4$Axial$$$$
+8280546$$LT4_JECAD$ICM0102023201$CFM Blade$No$RIYONG$SGM358$Scalatura SU diametro (460/430), calettamento 4°, scalatura corda  (1.02)$Yes$163.6$Modification$8280536$425$Axial$$$$
+8280551$$LT4_JECAD$ICM0102023201$CFM Blade$No$GM$INOVAR BRUSHED$Scalata su diametro (370/414)$Yes$138.36$Scaling$8280438$366$Axial$$$$
+8280552$$LT4_JECAD$ICM0102023201$CFM Blade$No$FIAT$C-SUV$Scalata su diametro (385/320), trim su mozzo 9mm$Yes$150$Scaling$8280156$385$Axial$$$$
+8280553$$LT4_JECAD$ICM0102023201$CFM Blade$No$FIAT$C-SUV$reimpilamento in z come 8280507 e sweep radiale fino in tangenza$Yes$150$Modification$8280464$385$Axial$$$$
+8280564$$LT4_JECAD$ICM0102023201$CFM Blade$No$FORD USA$P552 CAC$calettata -3°$Yes$96$Modification$8280558$186$Axial$$$$
+8280567$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$VW$MQB$Scalata su diametro (470/384)$Yes$126.6$Scaling$8280563$379$Axial$$$$
+8280575$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$DELPHI$35UP$Posizionamento pala su nuovo mozzo (diam.185mm)in direzione radiale e rimozione parte eccedente all'apice$Yes$185.00$Modification$8280563$469.40$Axial$$$$$$$$$$
+8280578$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$VOLVO$CMA$Reimpilato i profili in z, scalata sulla corda (5,5/6,15), calettata +2°$Yes$152.6$Modification$8280570$456.95$Axial$$$$
+8280584$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$MERCEDES$BR167/MG51$Scalatura diam. (520/511)$Yes$190.00$Modification$8280583$514.40$Axial$$$$$$$$$$
+8280617$$LT4_JECAD$ICM0102023201$CFM Blade$No$GM$K2XX$Scalata su corda (6/7) e calettata +3°$No$150$Modification$8280613$386$Axial$$$$
+8280618$$LT4_JECAD$ICM0102023201$CFM Blade$No$RIYONG$Ford B500$scalata su diametro (355/395) ricostruito profili a partire dal naca primitivo$Yes$136.96$Scaling$8280505$350$Axial$$$$
+8280653$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$FORD$CD391$Geometria con SW PALA advance$Yes$164$Design$$426$Axial$$$$
+8280678$$LT4_JECAD$ICM0102023201$CFM Blade$No$MAZDA$RG7 X2 Y2$Scalata su diametro (406/440)$Yes$154$Scaling$8280356$402$Axial$$$$
+8280691$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$GM USA$GEM$Raddrizzatore profili NACA9515-8520 da CFD pala 8280XXX RI YONG ATA 0°@ 50Pa_2700rpm$Yes$150$Design$1112-5yy0082$410$Straightener$$$$
+8280694$$LT4_JECAD$ICM0102023201$CFM Blade$No$HONDA$XJTB$Scalata sul diametro (415/390)$Yes$160.68$Scaling$8280582$410.74$Axial$$$$
+8280696$$LT4_JECAD$ICM0102023201$CFM Blade$No$RENAULT$Renault X82$Scalatura sul diametro 330/322. Scalatura sulla corda 8/10. Scalettata -1°deg.$Yes$142$Modification$8280430$325$Axial$$$$
+8280699$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$DOOWON$OS/JS$Scalata sul diametro (400/370) scalata su corda (8/9)$Yes$158$Scaling$8280612$395$Axial$$$$
+8280701$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$VW$MQB$Ottimizzazione pala 8280631 mediante modifica calettamenti zone d'apice$Yes$162$Design$8280631$384.4$Axial$$$$
+8280715$$LT4_JECAD$ICM0102023201$CFM Blade$No$HONDA$XJTB$scalata sul diametro (280/322)$Yes$109.18$Modification$8280402$276$Axial$$$$
+8280748$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$RENAULT$EV2020$scalata sulla corda 11/12$Yes$150$Modification$8280400$290$Axial$$$$
+8280750$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$RENAULT$EV2020$scalata sulla corda 11/12$Yes$139$Scaling$8280749$270$Axial$$$$
+8280784$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$RENAULT$EV2020$Pala forward progettata con metodo di progetto.$Yes$150$Design$Pala progettata da zero con metodo di progetto.$290$Axial$$$$
+8280787$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$RENAULT$EV2020$Pala forward progettata da zero con metodo di progetto.$Yes$150$Design$Pala forward progettata da zero.$284$Axial$$$$
+8280789$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$JLR$21MLA$Scalatura su corda (0.93) Calettamento pala (-3.5°) off-set proporzionale da 0.05 a 0.08$Yes$247.9$Modification$8280723$619$Axial$$$$
+8280796$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$Dyson N526$Scalata sul diametro 318/322 (fattore scalatura 314/317)$Yes$141$Scaling$8280712$314$Axial$$$$
+8280805$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$FAAR WE$Reverse UKL Magna rivestito NACA scalato in diametro (430/390) e su corda (7/11)$Yes$182.3$Reverse$$409.4$Axial$$$$
+8280818$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$RENAULT$EV2020$Scalatura sulla corda 9/11 (da 9 a 11 pale) e scalettamento -1.5°deg.$Yes$140$Modification$8280817$270$Axial$$$$
+8280823$$LT4_JECAD$ICM0102023201$CFM Blade$No$SUZUKI$SUZUKI YFA$Scalatura sul diametro 386mm/426mm. Spessore anello 2mm.$Yes$148$Scaling$8280726$386$Axial$$$$
+8280294$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$FORD$DEW98$$Yes$180$Scaling$8280078$454$Axial$$$$
+8280299$$LT4_JECAD$ICM0102023201$CFM Blade$No$FORD$C307$$Yes$148.5$Design$$365$Axial$$$$
+8280307$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$FORD USA$U377$$Yes$140$Design$$316.5$Axial$$$$
+8280311$$LT4_JECAD$ICM0102023201$CFM Blade$No$FORD USA$V229$$Yes$140$Design$$320$Axial$$$$
+8280316$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$600W$$Yes$195$Design$$453$Axial$$$$
+8280319$$LT4_JECAD$ICM0102023201$CFM Blade$No$JAGUAR$X250$scalata su diametro(458/405)  calettata +3°$Yes$197.3$Modification$8280097$453$Axial$$$$
+8280344$$LT4_JECAD$ICM0102023201$CFM Blade$No$JAGUAR$X250$scalata sulla corda 9/11, aumentato lo spessore$Yes$180$Modification$8280324$455$Axial$$$$
+8280345$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$PORSHE$9X1$scalata sul diametro(313/325) calettata -1°$Yes$145$Modification$8280304$308$Axial$$$$
+8280388$$LT4_JECAD$ICM0102023201$CFM Blade$No$FORD$CD4$scalata su diametro(320/430)$Yes$127$Scaling$8280258$316$Axial$$$$
+8280404$$LT4_JECAD$ICM0102023201$CFM Blade$No$FORD$CD4$calettata +5,5°$Yes$127$Modification$8280393$316$Axial$$$$
+8280405$$LT4_JECAD$ICM0102023201$CFM Blade$No$RENAULT$X92$scalata su diametro(384/370)$Yes$145$Modification$8280290$380$Axial$$$$
+8280407$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$VW$PQ24$scalata su diametro(385/430) corda (9/7)$Yes$152$Modification$8280350$379$Axial$$$$
+8280408$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$VW$PQ25$reimpilato i profili sulla curva della pala cod.8280290$Yes$152$Modification$8280407$376$Axial$$$$
+8280409$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$PL7 850W$scalata sulla corda 7/13$Yes$182$Modification$8280396$455$Axial$$$$
+8280442$$LT4_JECAD$ICM0102023201$CFM Blade$No$FORD$CAC$calettata -6°$Yes$111$Modification$8280441$207$Axial$$$$
+8280453$$LT4_JECAD$ICM0102023201$CFM Blade$No$BMW$UKL 300W Calsonic$scalata su diametro,CCW$Yes$155.4$Modification$8280290$405$Axial$$$$
+8280454$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$UKL 600W Calsonic$scalata su diametro CCW$Yes$162.5$Scaling$8280395$405$Axial$$$$
+8280457$$LT4_JECAD$ICM0102023201$CFM Blade$No$GM USA$K2XX$scalata su diametro(390/414)$Yes$150$Scaling$8280438$390$Axial$$$$
+8280459$$LT4_JECAD$ICM0102023201$CFM Blade$No$PSA$BVH1$scalata diametro(370/415) corda, calettata -1°, specchiato bordo d'ingresso BW$Yes$138$Modification$8280412$365$Axial$$$$
+8280476$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$VW$MQB$scalata su diametro (475/430) corda, calettata -3°$Yes$188$Modification$8280377$470$Axial$$$$
+8280490$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$JLR$D7A$scalata su diametro (486/425)$Yes$158.23$Scaling$8280469$480.35$Axial$$$$
+8280512$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$R/N$CMF2$scalata su diametro (381/425), calettata +1,5°,rivisto impilamento b.ingresso$Yes$125.1$Modification$8280504$381$Axial$$$$
+8280513$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$HCS 35up$scalata su diametro (475/430) e corda (7/9), calettata +1°$Yes$188$Modification$8280509$469.4$Axial$$$$
+8280520$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$35UP$impilato TE z2/3 tra 511 e zmax$Yes$188$Modification$8280518$469.4$Axial$$$$
+8280521$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$35UP$calettata 2.2° scalata corda 1.025$Yes$188$Modification$8280518$469.4$Axial$$$$
+8280530$$LT4_JECAD$ICM0102023201$CFM Blade$No$RIYONG$$scalata (368/384)$Yes$143.75$Scaling$$366.08$Axial$$$$
+8280544$$LT4_JECAD$ICM0102023201$CFM Blade$No$MERCEDES$MFA2$Scalata su diametro (460/394)$Yes$149$Scaling$8280536$389$Axial$$$$
+8280547$$LT4_JECAD$ICM0102023201$CFM Blade$No$NISSAN$PD2A$Scalata su diametro (460/445)$Yes$172.05$Scaling$8280507$455$Axial$$$$
+8280560$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$FIAT$DUCATO CAC$Scalata su diametro (202/212), scalettata -2°$Yes$105.8$Modification$8280442$197.2$Axial$$$$
+8280561$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$35up BCX/HCX$reimpilamento in z a parabola per rigidezza$Yes$201.76$Modification$8280545$504.4$Axial$$$$
+8280571$$LT4_JECAD$ICM0102023201$CFM Blade$No$FIAT$DT$scalata su diametro (510/445) trim al mozzo di 2.35mm$Yes$196$Modification$8280507$506$Axial$$$$
+8280573$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$VW$MQB$Scalata su diametro (386/466)$Yes$128.4$Scaling$8280563$386$Axial$$$$
+8280580$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$PSA$EMP2 CL.4$variazione calettamento da 0,21° a 1,35° per viziatura stampo TE invariato$Yes$135$Modification$8280641$410$Axial$$$$
+8280599$$LT4_JECAD$ICM0102023201$CFM Blade$No$$DOOWON QL LDT$Scalata su diametro (410/384)$Yes$159.87$Scaling$8280240$405$Axial$$$$
+8280601$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$FORD$C2 500W DC$scalata su diametro (440/385)riduzione spessore con off-set proporzionale (-0.15) rivestimento NACA a pari spessore max$Yes$141.78$Modification$8280512$435$Axial$$$$
+8280604$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$MERCEDES$BR167$variazione locale di calettamenti spessori e impilamenti a partire dalla 8280584$Yes$190$Design$$514.4$Axial$$$$
+8280605$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$R/N$CMFB$Raddrizzatore NACA0036 a bassa incidenza, da CFD pala 8280512 ATA 0°@ 130Pa_2960rpm$Yes$125$Design$8280512$384$Straightener$$$$
+8280606$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$PSA$EMP1 CL.3$scalata su diametro (430/370) trim a diametro mozzzo 155$Yes$155$Modification$8280509$366$Axial$$$$
+8280609$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$MAZDA$RG7X1$Scalata su diametro (390/430)$Yes$127$Modification$8280469$385$Axial$$$$
+8280613$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$GM$T2XX$Scalata su corda (8/6)sostituito profili con Naca equivalenti 3306-3305-3304$No$150$Modification$8280554$386$Axial$$$$
+8280654$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$PSA$EMP1$Scalata su diametro (370/474)$Yes$146.4$Scaling$8280511$366$Axial$$$$
+8280673$$LT4_JECAD$ICM0102023201$CFM Blade$No$MAZDA$RG6.5$Calettata di 1°$Yes$137$Scaling$8280482$326$Axial$$$$
+8280680$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$RENAULT$CMFCD-Euro6c singolo$scalata su diametro (420/520)$Yes$163.15$Scaling$8280538$415.8$Axial$$$$
+8280682$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$MERCEDES$BR167 HP$Scalatura rapporto 515/504.4 - Allungamento profili al mozzo per riportarsi a 192 [mm]$Yes$192$Modification$8280561$515$Axial$$$$
+8280697$$LT4_JECAD$ICM0102023201$CFM Blade$No$RENAULT$Renault X82$Scalatura sul diametro (330/322). Calettamento +1°deg.$Yes$142$Scaling$8280430$325$Axial$$$$
+8280706$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$DOOWON$OS / JS$Nuovi statori per pala ventola backward SCK7151 (11x8280709). Profilo aerodinamico fx73cl2152-il. Punto di lavoro da CFD: 2800CMH, 244Pa, 2500rpm.$Yes$156$Scaling$8280709$420$Straightener$$$$
+8280720$$LT4_JECAD$ICM0102023201$CFM Blade$No$FCA$MP$Scalatura su diametro (295/322) - 7 pale - spessore anello: 2.5[mm]-Diametro nominale: 295[mm]$Yes$129.2$Reverse$8280712$290$Axial$$$$
+8280721$$LT4_JECAD$ICM0102023201$CFM Blade$No$FCA$MP$Scalatura sul diametro (295/322) - 8 pale. Spessore anello 2.5 mm - Diametro anello finale: 295 [mm]$Yes$129.54$Reverse$8280713$290$Axial$$$$
+8280731$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$RENAULT$X52$Scalata su diametro (384/430).$Yes$123.66$Modification$8280628$380$Axial$$$$
+8280757$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$NISSAN$SUV$Scalata sul diametro 450/360 (fattore di scalatura 445/355) + scalatura sulla corda 8/9.$Yes$195$Scaling$8280660$455$Axial$$$$
+8280759$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$NISSAN$SUV$Scalata sul diametro 330/370 (fattore di scalatura 326/366). Scalatura sulla corda 8/7. Trim al mozzo diam 150mm. Cal +0.75°deg.$Yes$150$Scaling$8280612$326$Axial$$$$
+8280761$$LT4_JECAD$ICM0102023201$CFM Blade$No$RENAULT$EV2020$Scaltura sulla corda (10/7). Calettamento +1.5°deg.$Yes$150$Modification$8280756$291$Axial$$$$
+8280770$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$FIAT$FERRARI F173$scalata sul diametro (355/390)$Yes$147.5$Scaling$8280631$350$Axial$$$$
+8280781$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$VW$MEB$Scalata su diametro (460/390) scalatura sulla corda (8/10)$Yes$191.5$Modification$8280631$454.4$Axial$$$$
+8280782$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$FORD$CD542$Scalata su diametro (440/390) scalatura sulla corda (8/10)$Yes$182.7$Scaling$8280631$435$Axial$$$$
+8280793$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$USA$Sierra-Mahle$Scalatura sul diametro 341/360 (fattore scalatura 337/355). Scalatura sulla corda 8/10. Scalettata -1°deg.$Yes$147.88$Modification$8280660$337$Axial$$$$
+8280795$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$JLR$MLA 21MY$scalatura corda (8/7) calettamento +1°$Yes$155.8$Modification$8280660$355$Axial$$$$
+8280811$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$PSA$SMART CAR$Scalata su diametro (370/384)$Yes$131.25$Scaling$8280512$366$Axial$$$$
+8280816$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$VW$MEB31$variazione calettamento -1.75°$Yes$191.5$Modification$8280781$454.4$Axial$$$$
+8280819$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$NISSAN$SUV/P33$Scalatura sul diametro 425/457. Spessore anello 2.5mm (diametro nominale 430mm).$Yes$137.5$Scaling$8280578$424.75$Axial$$$$
+8280825$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$MAZDA$RG7 - LARGE$Scalare la pala da 460mm a 540mm. Calettare di +4°. Scalatura da 7 a 9 pale. Nove pale.$Yes$176$Modification$8280578$534.4$Axial$$$$
+8280835$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$RENAULT$HHA-HJD (CAC)$Scalatura sul diametro 205/207 (spess. anello 2mm) e scalatura sulla corda 9/11.$Yes$110$Scaling$8280440$205$Axial$$$$
+8280843$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$FCA$Jeep Compass$Scalata sul diametro Dnom=450mm (rapporto di scalatura 444.6/434.6$Yes$178.00$Scaling$8280743$444.60$Axial$$$$$$$$$$
+8280850$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$CLAAR WE$Scalatura diametro da 460 [mm] a 510 [mm], scalatura sulla corda da 7 a 9 pale$Yes$166.3$Scaling$8280578$504.4$Axial$$$$
+8280852$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$FAAR WE$OPT$Yes$170$Design$$410$Axial$$$$
+8280865$$LT4_JECAD$ICM0102023201$CFM Blade$$$Track MIxed Flow Fan$$Yes$116.4$Design$New Design$307.7$Centrifugal$$$$
+8280875$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$MERCEDES$BR214$Aumentato spessore percentuale profili 6512xx sezioni 1,2,3,4,5 (da 9%,9%,9%,10%10% a 12%,12%,12%,12.5%,12.5%)$Yes$183$Modification$8280863$495$Axial$$$$
+8280879$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$FAAR WE$New design mediante sostituzione dei profili aerodinamici$Yes$170$Design$8280813$409.4$Axial$$$$
+8280884$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$MERCEDES$BR167$Profili 6512xx$Yes$190$Design$$515$Axial$$$$
+8280898$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$MERCEDES$BR214$Calettamento +1°$Yes$183.00$Modification$8280858$495.00$Axial$$$$$$$$$$
+8280902$$LT4_JECAD$ICM0102023201$CFM Blade$No$PSA$EMP2V4 CL2$scalatura su diametro (430/510)$Yes$167$Scaling$8280643$425$Axial$$$$
+8280904$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$MERCEDES$BR214$Scalata a Dnom=500mm (495/514.8)$Yes$194.23$Modification$8280538$495.00$Axial$$$$$$$$$$
+8280906$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$PSA$EMP2 V4 CL5$calettamento +1.5° variazione sweep (0,0,0,+1°,+2°,+2°,+3°)$Yes$154.1$Modification$8280833$425$Axial$$$$
+8280927$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$TOYOTA$Camry$scalatura su diametro (430/460)$Yes$137.65$Scaling$8280798$425$Axial$$$$
+8280929$$LT4_JECAD$ICM0102023201$CFM Blade$No$PSA$MEHV P2 eAWD$scalatura su diametro (376/510) scalatura corda a pari soliditò (9/8)$Yes$146$Scaling$8280915$372$Axial$$$$
+8280930$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$PSA$MEHV eAWD brushed$scalatura sulla corda(7/9) calettameno(-0.8517,-0.8778,0,0,0) reimpilamento circonferenziale (+4,+1,+1,+1,+0.5,0)$Yes$160.6$Modification$8280808$366$Axial$$$$
+8280937$$LT4_JECAD$ICM0102023201$CFM Blade$No$BMW$CLAR WE T2 G45$scalatura di 525/524$Yes$207$Scaling$8280932$525$Axial$$$$
+8280939$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$ZOOX$Zoox EV$Scalatura su diametro (261/270), calettamento -1.5, modifica mozzo dopo scalatura (+4mm)$Yes$139$Modification$8280817$261$Axial$$$$
+8280941$$LT4_JECAD$ICM0102023201$CFM Blade$No$VOLVO$GEELY PMA$Pala progettata da RiYong per progetto GEELY PMA$Yes$158$Design$$407$Axial$$$$
+8280943$$LT4_JECAD$ICM0102023201$CFM Blade$No$MAZDA$J34 600W$Scalatura a Dnom=442mm (rapporto di scalatura 437/407)$Yes$169.65$Scaling$8280941$437$Axial$$$$
+8280960$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$RENAULT$CMFB Eu7$Scalatura in diametro (371/425)$Yes$134.52$Scaling$8280806$371$Axial$$$$
+8280967$$LT4_JECAD$ICM0102023201$CFM Blade$No$BMW$NCAR$scalatura su corda (10/11)$Yes$176.6$Scaling$8280923$419.1$Axial$$$$
+8280969$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$CLAR_T3_G65$scalatura 505/371 scalatura su corda 7/9$Yes$183.1$Scaling$8280960$505.6$Axial$$$$
+8280833$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$PSA$EMP2 v4 Platform$scalatura sulla corda (7/8) variazione reimpilamento circonferenziale (0,0,0,0,0,+1.5°,+2°)$Yes$154.1$Modification$8280806$425$Axial$$$$
+8280851$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$CLAAR WE$Scalatura dametro da 475 [mm] a 510 [mm]$Yes$202.00$Scaling$8280521$504.40$Axial$$$$$$$$$$
+8280859$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$MERCEDES$BR167$Scalata a Dnom=520mm (rapporto di scalatura 515/495)$Yes$190.39$Scaling$8280863$515$Axial$$$$
+8280863$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$MERCEDES$BR214$Scalatura a pari solidità da 7 a 9 pale (rapporto di scalatura 7/9)$Yes$183$Scaling$8280858$495$Axial$$$$
+8280883$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$MERCEDES$BR214$Profili alari serie 65 (6512xx)$Yes$180$Design$$466$Axial$$$$
+8280890$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$RENAULT$XDD$Scalatura sul diametro (379/454.4) + scalatura sulla corda 10/11.$Yes$159.73$Scaling$8280781$379$Axial$$$$
+8280892$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$PSA$X250p$scalatura su diametro (485/460)$Yes$201.87$Scaling$8280781$479$Axial$$$$
+8280907$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$RENAULT$CMFB-Eu7$Scalatura su diametro (360/415)$Yes$156.3$Scaling$8280880$356$Axial$$$$
+8280909$$LT4_JECAD$ICM0102023201$CFM Blade$No$TOYOTA$891B Twin slave$scalatura in diametro (320/395) offset proporzionale sotto i 2.6mm, cambio verso di rotazione da cw a ccw trim di 1mm all'apice$Yes$113.4$Modification$8280505$291$Axial$$$$
+8280921$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$FORD$CD542$variazione calettamenteo +1° per stampo def$Yes$182.7$Modification$8280782$435$Axial$$$$
+8280923$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$NCAR$SCALATURA SU DIAMETRO (424/460)$Yes$176.61$Scaling$8280781$419.07$Axial$$$$
+8280925$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$RENAULT$CMFB$$No$0$Modification$$280$Straightener$$$$
+8280931$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$DACIA RENAULT$HJD K9K$Scalata in diametro 387/409.04$Yes$163.1$Scaling$8280878$387$Axial$$$$
+8280933$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$NCAR$Seghettatura TE 25% pala (studio TE noise)$Yes$179.1$Modification$8280905$425$Axial$$$$
+8280961$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$RENAULT$CMFB Eu7$Raddrizzatore NASA/LANGLEY LS(1)-0421 a bassa incidenza, da CFD pala 8280960 ATA 0°@217Pa_3450rpm$Yes$134.52$Design$8280960$371$Straightener$$$$
+8280963$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$VW$MQb48 Twin - Master$Pala da DOE CFD$No$136$Design$$350$Axial$$$$
+8280975$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$HONDA$FCV2$Raddrizzatore NASA/LANGLEY LS(1)-0421 a bassa incidenza, da CFD pala 8280823 ATA 0°@203Pa_2750rpm, impilamento assiale con andamento lineare da 0 (mozzo) a -5.44 (tip)$No$148$Design$8280823$386$Straightener$$$$
+8280031$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$EQ$ventre modificato$Yes$122$Modification$8280018$320$Axial$$$$
+8280047$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$$SW VG Aggressive$Yes$197$Design$$368$Axial$$$$
+8280052$$LT4_JECAD$ICM0102023201$CFM Blade$No$$$$Yes$109$$$286$Axial$$$$
+8280081$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$R4V4$scalettata$Yes$140$Scaling$8280062$366$Axial$$$$
+8280083$$LT4_JECAD$ICM0102023201$CFM Blade$No$$$$Yes$140$Scaling$8280082$366$Axial$$$$
+8280088$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$$$Yes$124$Design$$300$Axial$$$$
+8280090$$LT4_JECAD$ICM0102023201$CFM Blade$No$OPEL$$$Yes$140$Scaling$8280077$364$Axial$$$$
+8280094$$LT4_JECAD$ICM0102023201$CFM Blade$No$AUDI$B5$miglioramento$Yes$124$Design$$266$Axial$$$$
+8280099$$LT4_JECAD$ICM0102023201$CFM Blade$No$$D9$$Yes$203$$8280065$374$Straightener$$$$
+8280104$$LT4_JECAD$ICM0102023201$CFM Blade$No$ROVER$8112/OYST$Reverse$Yes$130$Reverse$$366$Axial$$$$
+8280116$$LT4_JECAD$ICM0102023201$CFM Blade$No$$CIVIC$Reverse$Yes$103$Reverse$$299$Axial$$$$
+8280118$$LT4_JECAD$ICM0102023201$CFM Blade$No$$$$Yes$140$Scaling$8280112$426$Axial$$$$
+8280150$$LT4_JECAD$ICM0102023201$CFM Blade$No$$UTRC$$Yes$110$Design$$320$Axial$$$$
+8280152$$LT4_JECAD$ICM0102023201$CFM Blade$No$BMW$X350 / L50 / E83$$Yes$170$Scaling$8280079$470$Axial$$$$
+8280153$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$TEMIC K$Reverse$Yes$118$Reverse$$284$Axial$$$$
+8280154$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$PQ24 K$$Yes$118$Scaling$8280153$281$Axial$$$$
+8280155$$LT4_JECAD$ICM0102023201$CFM Blade$No$$CB2K$$Yes$125$Scaling$8280031$302$Axial$$$$
+8280178$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$FIAT$192/270$$Yes$127$Scaling$8280177$291$Axial$$$$
+8280191$$LT4_JECAD$ICM0102023201$CFM Blade$No$$S4316 BIG$Reverse$Yes$140$Reverse$8280162$344$Axial$$$$
+8280199$$LT4_JECAD$ICM0102023201$CFM Blade$No$PSA$X4 ECI$$Yes$150$Scaling$8280162$372$Axial$$$$
+8280206$$LT4_JECAD$ICM0102023201$CFM Blade$No$DACIA RENAULT$$speculare$Yes$140$Scaling$8280162$366$Axial$$$$
+1112-5YY0005$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$SEGMENT FAN$$Yes$210$Design$$466$Axial$$$$
+8280229$$LT4_JECAD$ICM0102023201$CFM Blade$No$PSA$A7$scalettato 1.8°$Yes$140$Reverse$8280162$366$Axial$$$$
+8280234$$LT4_JECAD$ICM0102023201$CFM Blade$No$AUDI$PQ24N$piegato profilo all'apice x riduzione 4mm altezza anello$Yes$150$Modification$8280228$382$Axial$$$$
+8280239$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$FORD$EUCD$scalata e tagliata$Yes$149$Scaling$8280075$370$Axial$$$$
+8280240$$LT4_JECAD$ICM0102023201$CFM Blade$No$FIAT$199$calettata -2°$Yes$150$Reverse$8280172$380$Axial$$$$
+8280242$$LT4_JECAD$ICM0102023201$CFM Blade$No$PSA$A7 450W$scalata su diametro, calettato 7°$Yes$150$Modification$8280170$364$Axial$$$$
+8280247$$LT4_JECAD$ICM0102023201$CFM Blade$No$FIAT$199$reverse$Yes$122$Reverse$8280025$280$Axial$$$$
+8280264$$LT4_JECAD$ICM0102023201$CFM Blade$No$BMW$$Reverse$Yes$180$Reverse$8280152$460$Axial$$$$
+8280269$$LT4_JECAD$ICM0102023201$CFM Blade$No$VW$PQ46$scalata su diametro(390/387)$Yes$152$Scaling$8280234$390$Axial$$$$
+8280283$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$FORD$EUCD$scalata sul diametro(282/325)$Yes$124$Scaling$8280254$278$Axial$$$$
+8280285$$LT4_JECAD$ICM0102023201$CFM Blade$No$BMW$600 W$scalata e calettata$Yes$173$Modification$8280162$452$Axial$$$$
+8280288$$LT4_JECAD$ICM0102023201$CFM Blade$No$VW$PQ46 Sing$scalata sul diametro(430/368)$Yes$163$Scaling$8280253$425$Axial$$$$
+8280309$$LT4_JECAD$ICM0102023201$CFM Blade$No$GM USA$GMT319$$Yes$130$Design$$336.5$Axial$$$$
+8280313$$LT4_JECAD$ICM0102023201$CFM Blade$No$NISSAN USA$ZW$$Yes$110$Design$$276$Axial$$$$
+8280318$$LT4_JECAD$ICM0102023201$CFM Blade$No$JAGUAR$X250$scalettata -2°$Yes$197.3$Modification$8280319$453$Axial$$$$
+8280330$$LT4_JECAD$ICM0102023201$CFM Blade$No$FIAT$AR939$scalata su diametro(430/405) scalettata$Yes$180.5$Modification$8280097$425$Axial$$$$
+8280347$$LT4_JECAD$ICM0102023201$CFM Blade$No$JAGUAR$X250$calettata +1°$Yes$180$Modification$8280324$455$Axial$$$$
+8280351$$LT4_JECAD$ICM0102023201$CFM Blade$No$GM$X4500$scalata sul diametro(384/370)$Yes$145$Scaling$8280290$379$Axial$$$$
+8280356$$LT4_JECAD$ICM0102023201$CFM Blade$No$USA$D258$scalata sul diametro(440/390) calettata +3°$Yes$167$Modification$8280249$435$Axial$$$$
+8280360$$LT4_JECAD$ICM0102023201$CFM Blade$No$PORSHE$9X1$scalata sul diametro(170/368) reimpilato i profili, calettata +3°$Yes$85$Modification$8280100$166$Axial$$$$
+8280373$$LT4_JECAD$ICM0102023201$CFM Blade$No$PORSHE$9X1$scalata sul diametro(160/170)$Yes$80$Scaling$8280360$156$Axial$$$$
+8280378$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$TOYOTA$B0$scalata sulla corda, traslata su diametro mozzo$Yes$122$Reverse$8280375$300$Axial$$$$
+8280380$$LT4_JECAD$ICM0102023201$CFM Blade$No$BMW$PL7 850W$scalata su diametro(460/390) calettata -2°$Yes$180$Reverse$8280249$455$Axial$$$$
+8280385$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$FORD$C1MCA CAC$Calettamento pala +4°$Yes$110$Modification$8280381$164$Axial$$$$
+8280394$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$PL7 300W$rivestito naca per inspessito profili$Yes$170$Modification$8280377$425$Axial$$$$
+8280406$$LT4_JECAD$ICM0102023201$CFM Blade$No$RENAULT$X92$scalata su diametro(384/322) corda 8/7 scalettata -3°$Yes$150$Modification$8280398$380$Axial$$$$
+8280420$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$VW$PQ24 RUSH$reimpilato i profili$Yes$145$Modification$8280415$384$Axial$$$$
+8280430$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$MCV$scalata su diametro(322/325) calettata +2°$Yes$150$Modification$8280276$317$Axial$$$$
+8280431$$LT4_JECAD$ICM0102023201$CFM Blade$No$PSA$BVH2$scalata su diametro(414/390) calettata +1° ridotto impilamento dalla rev./01$Yes$155$Modification$8280326$410$Axial$$$$
+8280444$$LT4_JECAD$ICM0102023201$CFM Blade$No$RIYONG$SUV$scalata su diametro(390/322) e corda (7/8)$Yes$145$Modification$8280402$385$Axial$$$$
+8280445$$LT4_JECAD$ICM0102023201$CFM Blade$No$BMW$UKL$scalata su diametro(410/370) sulla corda (8/9) calettata +4,5°, scal. sulla corda di 1,075$Yes$155.5$Modification$8280246$405$Axial$$$$
+8280447$$LT4_JECAD$ICM0102023201$CFM Blade$No$MALESIA$$scalata su diametro(360/384)$Yes$140.8$Scaling$8280240$355$Axial$$$$
+8280448$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$RENAULT$EDISON SMART$scalata su diametro (384/325) scalettato-3°, scalatura corda (7/11), off-set0,38$Yes$175$Modification$8280200$379.6$Axial$$$$
+8280460$$LT4_JECAD$ICM0102023201$CFM Blade$No$PSA$BVH1$calettata +3°$Yes$138$Modification$8280459$365$Axial$$$$
+8280461$$LT4_JECAD$ICM0102023201$CFM Blade$No$FORD$B460$calettata +3°$Yes$125$Modification$8280402$322$Axial$$$$
+8280470$$LT4_JECAD$ICM0102023201$CFM Blade$No$GM USA$D2UXX$scalata su diametro (390/384)$Yes$152$Scaling$8280413$385$Axial$$$$
+8280481$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$35UP$scalata su diametro (475/430) calettata (-2°) reimpilata in 'z' e scalato corda al mozzo (0.828)$Yes$188$Modification$8280468$470$Axial$$$$
+8280492$$LT4_JECAD$ICM0102023201$CFM Blade$No$BMW$35UP$scalata su diametro (475/460)$Yes$186.4$Scaling$8280399$471.2$Axial$$$$
+8280493$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$35UP$$Yes$200$Design$$470.5$Axial$$$$
+8280502$$LT4_JECAD$ICM0102023201$CFM Blade$No$GM USA$D2UXX$scalata su diametro (326/385) sulla corda(9/10)$Yes$137$Modification$8280467$326$Axial$$$$
+8280503$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$RENAULT$Piatt. C$scalata su diametro(381/425) calettata +4°$Yes$125$Modification$8280469$381$Axial$$$$
+8280510$$LT4_JECAD$ICM0102023201$CFM Blade$No$BMW$35UP$scalatura su diametro(475/460) scalettamento(-2.5°) scalatura su corda(1.02) off-set(0.25mm)$Yes$184.7$Scaling$8280434$471.5$Axial$$$$
+8280528$$LT4_JECAD$ICM0102023201$CFM Blade$$BMW$UKL$scalata (422/415) scalata corda (8/9), scalata corda 1,02$Yes$$Modification$8280412$$Axial$$$$
+1112-5YY0008$$LT4_JECAD$ICM0102023201$CFM Blade$No$JLR$D7A 400W$scalata (490/480) scalata corda (8/9), scalata corda 1,03$Yes$192.4$Modification$8280258$486$Axial$$$$
+8280535$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$35UP$scalata su diametro (510/430)$Yes$201.78$Scaling$8280468$504.4$Axial$$$$
+8280538$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$GM$D2UC RESCOPE$scalata su diametro (520/500)$Yes$202$Scaling$8280478$514.8$Axial$$$$
+8280556$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$GM$INOVAR GMI700$riduzione spessore con rivestimento NACA (-0,4mm)$Yes$170$Modification$8280539$516$Axial$$$$
+8280565$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$35 BCX HP$scalata sulla corda (8/9), numero pale ventola finale: 9$Yes$201.78$Modification$8280555$504.4$Axial$$$$
+8280568$$LT4_JECAD$ICM0102023201$CFM Blade$No$DELPHI$35UP$calettata +0.5°, scalata sulla corda del valore 1.03$Yes$188$Modification$8280537$469.4$Axial$$$$
+8280579$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BEHR$35 BCX HP$Scalata su diametro (504.4/465)$Yes$166.15$Scaling$8280563$504.40$Axial$$$$$$$$$$
+8280585$$LT4_JECAD$ICM0102023201$CFM Blade$No$FIAT$T3T4$scalata su diametro(384/395)$Yes$148.1$Modification$8280505$379$Axial$$$$
+8280587$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$DELPHI$35up HCS HP$Scalatura diam. (510/475)$Yes$154.6$Scaling$8280583$469.4$Axial$$$$
+8280588$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$DELPHI$UKL$Scalata su diametro (422/390)$Yes$139$Scaling$8280573$419.2$Axial$$$$
+8280603$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$MAZDA$J72 HVCC$Scalata su diametro (390/430)$Yes$154$Modification$8280377$385$Axial$$$$
+8280610$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$PSA$EMP1$Scalata sul diametro (370/430)$Yes$146.4$Scaling$8280509$366$Axial$$$$
+8280612$$LT4_JECAD$ICM0102023201$CFM Blade$No$PSA$EMP1$Scalata sul diametro (370/430) scalata su corda (7/8) calettata +1.5°$Yes$146.4$Scaling$8280509$366$Axial$$$$
+8280627$$LT4_JECAD$ICM0102023201$CFM Blade$No$VW$MQB A0 - K01$Scalata su diametro (320/386)$No$150$Modification$8280617$386$Axial$$$$
+8280628$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$FORD$CD4.1-CD391E Panther$Scalata su diametro (430/460) trim su mozzo di 1.5mm$Yes$140.1$Modification$8280578$425$Axial$$$$
+8280638$$LT4_JECAD$ICM0102023201$CFM Blade$No$JLR$X590$Scalata su diametro (385/370) scalata sulla corda (8/10) traslazione profili su raggio a 150mm$Yes$150$Modification$8280246$380$Axial$$$$
+8280641$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$PSA$EMP2 CL.4$scalatura su diametro (415/430) scalata sulla corda (7/10) reimpilamento assiale come 8280539$Yes$135$Modification$8280504$410$Axial$$$$
+8280644$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$PSA$2020 V3$Scalata sul diametro (380/370) scalata su corda (8/9) impilamento in z primi 4 profili (0-4.5mm)$Yes$142.5$Modification$8280612$376$Axial$$$$
+8280645$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$MERCEDES$BR167$calettamento -2°, variazione forma TE$Yes$190$Modification$8280604$514.4$Axial$$$$
+8280646$$LT4_JECAD$ICM0102023201$CFM Blade$No$GM$GEM$scalatura sulla corda per passare da 8 a 7 pale$Yes$154$Scaling$8280483$406$Axial$$$$
+8280649$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$PSA$EMP2 CL.4$Raddrizzatore profili NACA9515-8520, da CFD pala 8280641 ATA 12°@ 260Pa_3340rpm (impilamento su inlet)$Yes$136$Design$8280641$410$Straightener$$$$
+8280668$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$MERCEDES$BR167$Pala simile a 8280666. Modificati profili aerodinamici (localmente) per miglioramento prestazioni.$Yes$190$Design$8280666$514.4$Axial$$$$
+8280672$$LT4_JECAD$ICM0102023201$CFM Blade$No$DOOWON$OS$Scalata su diametro (400/384), calettata +2.5$Yes$156$Scaling$8280172$394$Axial$$$$
+8280677$$LT4_JECAD$ICM0102023201$CFM Blade$No$MAZDA$RG7$scalata su diametro, utilizzando rapporto di scala 0.951, scalata sulla corda 8/7 (spessore anello: 2 [mm])$Yes$146.5$Scaling$8280483$386$Axial$$$$
+8280688$$LT4_JECAD$ICM0102023201$CFM Blade$No$RIYONG$BYD$Similitudine a Dnom=455mm (rapporto di scalatura 450/426)$Yes$172.4$Scaling$8280726$450$Axial$$$$
+8280700$$LT4_JECAD$ICM0102023201$CFM Blade$No$DOOWON$OS / JS$Scalata sul diametro 400/385. Scalata sulla corda 8/9. Profili all'apice inspessiti con offset 0.1mm per raggiungere limite stampabilità.$Yes$156$Scaling$8280240$395$Axial$$$$
+8280712$$LT4_JECAD$ICM0102023201$CFM Blade$No$FCA$K8$Scalatura su diametro (317/278) - 7 pale - spessore anello: 2.5[mm]-Diametro nominale: 322[mm]$Yes$141.4$Reverse$8280714$317$Axial$$$$
+8280713$$LT4_JECAD$ICM0102023201$CFM Blade$No$FCA$K8$Scalatura sul diametro (317/278) e scalatura sulla corda del rapporto 7/8. Inserire 8 pale. Spessore anello 2.5 mm - Diametro anello finale: 322 [mm]$Yes$141.4$Reverse$8280714$317$Axial$$$$
+8280746$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$GM$9BUX 650W$scalata su diametro (460/520) scalatura su corda (9/11) estensione al mozzo di 15mm$Yes$158.75$Modification$8280538$455$Axial$$$$
+8280758$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$NISSAN$SUV$Scalata sul diametro 450/460 (fattore di scalatura 445/456.95)$Yes$150$Modification$8280578$445$Axial$$$$
+8280773$$LT4_JECAD$ICM0102023201$CFM Blade$No$VW$MQB 2nd Wave$Nuovo modello pala inspessito rispetto a 8280830$Yes$170$Modification$8280830$425$Axial$$$$
+8280775$$LT4_JECAD$ICM0102023201$CFM Blade$No$GM USA$9BUx$scalata su diametro (460/315) scalettata -1°$Yes$192.76$Modification$8280473$460$Axial$$$$
+8280794$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$FAAR WE$Design con metodo progetto$Yes$170$Design$$410$Axial$$$$
+8280797$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$Dyson N526$Scalata sul diametro 318/322 (fattore scalatura 314/317)$Yes$141$Scaling$8280713$314$Axial$$$$
+8280799$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$FAAR WE$Calettare la pala di -2.5° (scalettamento)$Yes$170$Modification$8280810$409.4$Axial$$$$
+8280801$$LT4_JECAD$ICM0102023201$CFM Blade$No$MAZDA$RG7-Large$Scalatura da diametro 430 [mm] a diametro 460 [mm]$Yes$175.4$Modification$8280726$454.4$Axial$$$$
+8280806$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$VW$MBQ 3rd 400W$Reverse 2nd 400W Magna rivestito NACA scalato in diametro (430/390)$Yes$154.1$Reverse$$425$Axial$$$$
+8280809$$LT4_JECAD$ICM0102023201$CFM Blade$No$FORD$S650$scalatura in diametro (460/510) calettamento +2°$Yes$177$Modification$8280643$454.4$Axial$$$$
+8280814$$LT4_JECAD$ICM0102023201$CFM Blade$No$$$scalatura su diametro (340/390)$Yes$127.4$Scaling$8280629$336.6$Axial$$$$
+8280828$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$VW$37MQB TWIN 600W$scalatura in diametro (355/360) corda (7/10)$Yes$154$Scaling$8280808$351$Axial$$$$
+8280847$$LT4_JECAD$ICM0102023201$CFM Blade$No$RENAULT$HJD-HR13$Scalata sul diametro rapporto scalatura 379/391.$Yes$147.66$Scaling$8280505$379$Axial$$$$
+8280856$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$SSANGYONG$C310$Punto di lavoro CFD 4690CMH / 294PA / 3650RPM. DOE CFD + DOE STRUTTURALE.$Yes$160$Design$METODO DI PROGETTO$440$Axial$$$$
+8280868$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$MERCEDES$BR167$Scalatura sul diametro rapporto 514/440.$Yes$187$Scaling$8280856$514$Axial$$$$
+8280878$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$FAAR-WE High$Riduzione spessore a parità di corda: 13% max th.$Yes$172.38$Modification$8280450$409.04$Axial$$$$
+8280910$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$MERCEDES$MMA$Similitudine a Dnom=470mm (rapporto di scalatura 466/495)$Yes$172.28$Scaling$8280895$466$Axial$$$$
+8280935$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$RENAULT$CMFB-Euro7$Scalata su diametro (356/410)$Yes$156.3$Scaling$8280880$356$Axial$$$$
+8280942$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$VW$MQB 450W 2ND TRANCE$Ottimizzazione CFD + CAA a partire dal progetto T4 Hybrid FCA$Yes$181.3$Modification$8280755$425.9$Axial$$$$
+8280944$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$GM$SGM 458 HEV$ottimizzazione o modifica RY pala 8280631$No$200$Design$$462$Axial$$$$
+8280946$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$N-car$scalatura diametro (419.4/370) scalatura corda (9/11) calettamento variabile (0,0,1.5,0,-1.5,0,1.5,0,-1.5,0,1.5,0,-1.5,0,1.5,0,1.5,0,-0.5,0) imp circonf rispetto a TE(0,-0.25,0,-0.25,0,-0.25,0,-0.25,0,-0.25,0,-0.25,0,-0.25,0,-0.25,0,0.05,0.6,1.25,1.5,1.8)$Yes$186.7$Reverse$REVERSE TESLA M3 DOE CFD$414.4$Axial$$$$
+1112-5YY0037$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$CLAR G65$Scalatura su corda 10/7$Yes$212.83$Scaling$8280989$505$Axial$$$$
+1112-5YY0046$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$PSA$EMP2_2022_460mm$scalatura in diametro del raddrizzatore 8280972$No$184.7$Scaling$1112-5YY0045$455$Straightener$$$$
+1112-5YY0072$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$G65$SCALATURA DA FAN0161 WP: 1.1 m3/s 295Pa 2630RPM$No$212.83$Scaling$8280972$505$Straightener$$$$
+1112-5YY0079$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$PSA$STL-M BEV 800V$scaltura su diametro (443/430) variazione calettamento (+0.5°)$Yes$185.45$Modification$1112-5YY0076$437$Axial$$$$
+1112-5YY0113$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$FCA$Stellantis LB ICE$Similitudine da statore 1112-5yy0042:scalatura in diametro (485/456)$Yes$175.86$Scaling$1112-5yy0112$485$Straightener$$$$
+1455-5YY0060$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$NCAR$Designed with Aerotools$Yes$179.2$Design$8280905$425$Axial$$$$
+1112-5YY0044$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$MERCEDES$AMG$Similitudine a Dnom=520mm (rapporto di scalatura 515/495)$Yes$190.39$Scaling$8280895$515$Axial$$$$
+1112-5YY0045$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$PSA$EMP2_2022_460mm$scalatura su diametro (460/430)$Yes$191.7$Scaling$8280905$455$Axial$$$$
+1112-5YY0077$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$MERCEDES$MB.EA-L$Simulitudine a Dnom=494mm (rapporto di scalatura 490/456)$Yes$177.67$Scaling$1112-5yy0041$490$Axial$$$$
+1112-5YY0083$$LT4_JECAD$ICM0102023201$CFM Blade$No$GM$98Ux$scalatura su diametro (460/520) sclatura su corda (9/11)$Yes$178.5$Scaling$8280538$455$Axial$$$$
+1112-5YY0084$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$AUDI$PPE$scalatura su diametro 425/354$Yes$177$Scaling$8280940$420$Axial$$$$
+1112-5YY0085$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$AUDI$A4L(B10)$scalatura su diametro (445/460)$Yes$185.43$Scaling$8280781$440$Axial$$$$
+1112-5YY0092$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$RENAULT$FlexEVan$Rapporto di scalatura al tip (372/420), al nominale (377/425)$Yes$134.96$Scaling$1112-5yy0048$372$Axial$$$$
+1112-5YY0102$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$MERCEDES$AMG BR223 48V$Similitudine da 8280635 in diametro (rapporto di scalatura 495/514.29) e sulla corda a pari solidità (11/13)$Yes$209.23$Scaling$1112-5yy0099$495$Straightener$$$$
+1112-5YY0107$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$FCA$DT BEV 650W$scalatura su diametro(400/375=>395/371)$Yes$143.2$Scaling$8280960$395$Axial$$$$
+1112-5YY0108$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$FCA$DT BEV 650W$scalatura in diametro da 8280961$Yes$143.2$Scaling$1112-5yy0107$395$Straightener$$$$
+1112-5YY0111$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$FERRARI F244$'Scaling' da statore 8280914: sul diametro (rapporto 200/261) e sulla corda a pari solidità (rapporto 10/7)$Yes$103.45$Scaling$1112-5YY0109$200$Straightener$$$$
+1112-5YY0056$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$RIYONG$BYD 900W Twin pusher$scalatura su diametro (310/386) scalatura su corda (7/9) traslazione (+5.535) scalettamento (-1.5°) trim mozzo e anello$No$136$Modification$8280617$310$Axial$$$$
+1112-5YY0066$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$TESLA$Everest$Raddrizzatore NASA/LANGLEY LS(1)-0421 a bassa incidenza, da CFD pala 1112-5yy0065 ATA 0°@171Pa_3100rpm$Yes$146.9$Design$1112-5yy0065$347.6$Straightener$$$$
+1112-5YY0070$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$SUZUKI$YEA-YEB$Scalatura sul diametro (360.5/371)$Yes$130.72$Scaling$8280960$360.5$Axial$$$$
+1112-5YY0071$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$SUZUKI$YEA-YEB$Scalatura sul diametro (360.5/371)$Yes$130.72$Scaling$8280961$360.5$Straightener$$$$
+1112-5YY0073$$LT4_JECAD$ICM0102023201$CFM Blade$No$PSA$EMP2V4 CL2$offset profili da sez1 (mozzo) a sez6 = (1.13,1.13,1.14,1.17,1.19,1.24,0.87)$Yes$167$Modification$8280902$425$Axial$$$$
+1112-5YY0074$$LT4_JECAD$ICM0102023201$CFM Blade$No$VOLVO$CM1E$Pala progettata da RiYong per CEVT CM1E$Yes$158$Design$$407$Axial$$$$
+1112-5YY0078$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$MERCEDES$MB.EA-L$Simiilitudine da statore progettato 1112-5YY0042:scalatura in diametro (490/456) + scalatura sulla corda a pari solidità (15/13)$Yes$177.67$Scaling$1112-5YY0077$490$Straightener$$$$
+1112-5YY0112$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$FCA$Stellantis LB ICE$Similitudine a Dnom=490mm (rapporto di scalatura 485/456)$Yes$175.86$Scaling$1112-5yy0041$485$Axial$$$$
+1112-5YY0047$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$SUZUKI$YEA-YEB$Raddrizzatore NASA/LANGLEY LS(1)-0421 a bassa incidenza, da CFD pala 1112-5yy0043 ATA 0°@69Pa_2400rpm$Yes$140.45$Design$1112-5yy0043$360.5$Straightener$$$$
+1112-5YY0051$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$G65$$Yes$212.83$Design$Pala progettata con AeroTools per G65$505$Axial$$$$
+1112-5YY0058$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$PSA$Smart Car$scalatura su diametro (367/376)$Yes$159.3$Scaling$8280957$363$Axial$$$$
+1112-5YY0059$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$VALEO$Avion$Scalatura su diametro (482.5/454.4)$Yes$203.35$Scaling$8280781$482.5$Axial$$$$
+1112-5YY0061$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$GM$BEV 600-800W$scalura in diametro (440/375)$Yes$157.7$Scaling$8280960$435$Axial$$$$
+1112-5YY0062$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$GM$BEV 600-800W$scalatura in diametro 8280961$Yes$158$Scaling$8280961$436$Straightener$$$$
+1112-5YY0063$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$NCAR$Designed with Aerotools$Yes$179.2$Design$8280905$425$Axial$$$$
+1112-5YY0068$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$RIYONG$BYD master twin push$scalatura su diametro (310/386) scalatura su corda (7/9) traslazione (+5.535) scalettamento (-1.5°) trim mozzo 132 e anello 310 off-set (+0.25)$No$131.53$Modification$8280617$310$Axial$$$$
+1112-5YY0069$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$RIYONG$BYD Slave twin pushe$calatura su diametro (310/386) traslazione (+5.535) calettamento (+1.5°) trim mozzo 132 e anello 310$No$131.53$Modification$8280617$310$Axial$$$$
+1112-5YY0087$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$Ricerca e sviluppo$Aggiunta riblets apice pala$Yes$118.03$Design$1112-5yy0086$280$Axial$$$$
+1112-5YY0090$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$G65$$Yes$212.83$Design$Pala progettata con AeroTools per G65$505$Axial$$$$
+1112-5YY0094$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$RENAULT$FlexEVan$Rapporto di scalatura al tip (367/372), al nominale (372/377), pala tagliata di 0.914mm per mozzo minimo di 135mm$Yes$135$Scaling$1112-5yy0092$367$Axial$$$$
+1112-5YY0101$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$MERCEDES$MB.EA-L$Nuova progettazione (da pala 1112-5YY0077) con funzioni di forma: distribuzione sinusoidale corda e calettamento$Yes$177.67$Design$$490$Axial$$$$
+1112-5YY0109$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$FERRARI F244 MT$$No$113$Design$$200$Axial$$$$
+1112-5YY0034$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$FCA$2810$Similitudine a Dnom=385mm (rapporto di scalatura 381/371)$Yes$138.15$Scaling$8280960$381$Axial$$$$
+1112-5YY0036$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$MERCEDES$BR214EVO$Scalata su diametro (500/520)$Yes$182.83$Scaling$8280634$495$Axial$$$$
+1112-5YY0040$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$RIVIAN$Helios$Raddrizzatore NASA/LANGLEY LS(1)-0421 a bassa incidenza, da CFD pala 8280782 ATA 0°@250Pa_2600rpm$Yes$184$Design$8280782$435$Straightener$$$$
+1112-5YY0052$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$G65$scalatura corda (9/7)*0.93 calettamento -1.5°$Yes$212.83$Scaling$1112-5YY0051$505$Axial$$$$
+1112-5YY0075$$LT4_JECAD$ICM0102023201$CFM Blade$No$VOLVO$CM1E$Scalatura a pari solidità da 7 a 9 pale (rapporto di scalatura 7/9)$Yes$158$Scaling$1112-5YY0074$407$Axial$$$$
+1112-5YY0080$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$MERCEDES$AMG 48V$Variazione calettamento (coefficiente 0.9) sezioni da 5 a 12. Variazione calettamento (-1°) sezione 13$Yes$202$Modification$8280538$514.8$Axial$$$$
+1112-5YY0096$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$PSA$CL3-CL5$calettamento (1°) scalatura su corda (0.975) offset sul profilo (0.78 0.72 0.67 0.60 0.55 0.49 0.44 0.39 0.34 0.30 0.26 0.23 0.20 0.10)$Yes$179.2$Modification$1112-5yy0076$424$Axial$$$$
+1112-5YY0097$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$RENAULT$X82 ECO Mono GMV$Scalatura in diametro al tip (501/454.4), al nominale (507/460)$Yes$211.34$Scaling$8280781$501$Axial$$$$
+1112-5YY0104$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$PSA$CL3-CL5-STLA$Designed with Aerotools$Yes$173.69$Design$1112-5yy0063$425$Axial$$$$
+1112-5YY0106$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$MERCEDES$AMG BR223 48V$Scalatura sulla corda a pari solidità (rapporto 9/11)$Yes$194.23$Scaling$1112-5yy0099$495$Axial$$$$
+1112-5YY0033$$LT4_JECAD$ICM0102023201$CFM Blade$No$GM$GEM 300/400W$scalatura su corda (8/7) scalettamento -3° reimpilamenti circonferenziale$Yes$156$Modification$8280483$405$Axial$$$$
+1112-5YY0038$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$TOYOTA$NextB$Scalatura in diametro (385/371), rotazione CCW$Yes$139.6$Scaling$8280960$385$Axial$$$$
+1112-5YY0039$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$TOYOTA$NextB$Scalatura in diametro (385/371), rotazione CCW$Yes$139.6$Scaling$8280961$385$Straightener$$$$
+1112-5YY0050$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$MERCEDES$MB.EA-M$Similitudine a Dnom=460mm (rapporto di scalatura 456/495) e sul numero di pale a pari solidità (9/7)$Yes$168.58$Scaling$8280895$456$Axial$$$$
+1112-5YY0060$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$G65$$Yes$212.83$Design$Pala progettata con AeroTools per G65$505$Axial$$$$
+1112-5YY0067$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$PSA$CMP-S$scalatura in diametro (430/443)$Yes$448$Scaling$8280972$150$Straightener$$$$
+1112-5YY0081$$LT4_JECAD$ICM0102023201$CFM Blade$No$VOLVO$CM1E$Scalatura a pari solidità da 9 a 11 pale (rapporto di scalatura 9/11) + offset profili (+1.2mm max thickness)$Yes$158$Modification$1112-5YY0075$407$Axial$$$$
+1112-5YY0082$$LT4_JECAD$ICM0102023201$CFM Blade$No$GM$GEM 300/400W$reimpilamenti assiali cfd$Yes$156$Design$8280483$405$Axial$$$$
+1112-5YY0093$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$RENAULT$FlexEVan$Rapporto di scalatura al tip (372/420)$Yes$134.96$Scaling$1112-5yy0049$372$Straightener$$$$
+1112-5YY0098$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$RENAULT$X82 ECO Mono GMV$Scalatura in diametro al tip (501/364)$Yes$211.34$Scaling$1112-5yy0089$501$Axial$$$$
+1112-5YY0099$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$MERCEDES$AMG BR223 48V$Similitudine a Dnom=500mm (rapporto di scalatura 495/514.8)$Yes$194.23$Scaling$8280538$495$Axial$$$$
+1112-5YY0103$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$PSA$STLA-S/M$scalatura in diametro (443/430)=(1.03066)$Yes$184.7$Scaling$1112-5yy0096$437$Axial$$$$
+1112-5YY0035$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$FCA$2810$Similitudine da statore progettato 8280961: scalatura in diametro (381/371) + scalatura sulla corda a pari solidità (8/10)$Yes$138.15$Scaling$1112-5YY0034$381$Straightener$$$$
+1112-5YY0041$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$MERCEDES$MB.EA-M$Simulitudine a Dnom=460mm (rapporto di scalatura 456/371) e sul numero di pale a pari solidità (7/9)$Yes$165.34$Scaling$8280960$456$Axial$$$$
+1112-5YY0042$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$MERCEDES$MB.EA-M$Simiilitudine da statore progettato 8280961:scalatura in diametro (456/371) + scalatura sulla corda a pari solidità (8/15)$Yes$165.34$Scaling$1112-5YY0041$456$Straightener$$$$
+1112-5YY0043$$LT4_JECAD$ICM0102023201$CFM Blade$No$SUZUKI$YEA-YEB$Scalatura su diametro (360.5/391)$Yes$140.45$Scaling$8280505$360.5$Axial$$$$
+1112-5YY0048$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$RIVIAN$Helios$Ottimizzazione metodo di progetto + verifica aeroacustica$Yes$152.43$Design$$420$Axial$$$$
+1112-5YY0049$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$RIVIAN$Helios$Raddrizzatore NASA/LANGLEY LS(1)-0421 a bassa incidenza, da CFD pala 1112-5yy0048 ATA 0°@254Pa_2680rpm$Yes$152.43$Design$1112-5yy0048$420$Straightener$$$$
+1112-5YY0057$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$RIYONG$BYD 900W Twin pusher$calatura su diametro (310/386) traslazione (+5.535) calettamento (+1.5°) trim mozzo e anello$No$136$Modification$8280617$310$Axial$$$$
+1112-5YY0064$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$PSA$CMP-S$scalatura su diametro (443/430)$Yes$184.6$Scaling$8280905$438$Axial$$$$
+1112-5YY0076$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$PSA$CL3$dZ modifications for FEA Opt$Yes$179.2$Modification$1112-5YY0063$425$Axial$$$$
+1112-5YY0088$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$NISSAN$L1ZE/F$SCALATURA SU DIAMETRO (370/430)=>(364/426)$Yes$140$Scaling$8280653$364$Axial$$$$
+1112-5YY0095$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$RENAULT$FlexEVan$Rapporto di scalatura al tip (367/372), pala tagliata di 0.914mm per mozzo minimo di 135mm$Yes$135$Scaling$1112-5yy0093$367$Straightener$$$$
+1112-5YY0105$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$NCAR$Designed with Aerotools$Yes$179.2$Design$8280905$425$Axial$$$$
+8280014$$LT4_JECAD$ICM0102023201$CFM Blade$No$$$$Yes$125$Design$$366$Axial$$$$
+8280019$$LT4_JECAD$ICM0102023201$CFM Blade$No$$X64$$Yes$140$Design$$366$Axial$$$$
+8280025$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$$$Yes$102$$$291$Axial$$$$
+8280027$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$$SW FanAir$Yes$152$Design$$370$Axial$$$$
+8280037$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$$$Yes$150$Design$$366$Axial$$$$
+8280067$$LT4_JECAD$ICM0102023201$CFM Blade$No$PIAGGIO$$$Yes$35$Design$$75$Axial$$$$
+8280075$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$$viziatura per recupero deformazioni stampaggio considerabile$Yes$140$Modification$8280021$366$Axial$$$$
+8280086$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$T1 300W$variato spessore profili creato bordo uscita$Yes$170$Reverse$8280075$366$Axial$$$$
+8280087$$LT4_JECAD$ICM0102023201$CFM Blade$No$$$$Yes$229$$$374$Straightener$$$$
+8280092$$LT4_JECAD$ICM0102023201$CFM Blade$No$OPEL$$$Yes$140$Scaling$8280077$364$Axial$$$$
+8280111$$LT4_JECAD$ICM0102023201$CFM Blade$No$$8112/OYST$$Yes$130$Scaling$8280104$366$Axial$$$$
+8280119$$LT4_JECAD$ICM0102023201$CFM Blade$No$$R50$Reverse$Yes$120$Reverse$$326$Axial$$$$
+8280147$$LT4_JECAD$ICM0102023201$CFM Blade$No$FIAT$937$Reverse$Yes$150$Reverse$$379$Axial$$$$
+8280158$$LT4_JECAD$ICM0102023201$CFM Blade$No$$X4-MATRIX$Reverse$Yes$146$Reverse$$368$Axial$$$$
+8280183$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$8125 V8$scalato su corda, riempilato e calettato$Yes$130$Reverse$8280075$337$Axial$$$$
+8280185$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$D3 GRANDE$$Yes$170$Design$$400$Axial$$$$
+8280194$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$GMT235$$Yes$142$Design$$335$Axial$$$$
+8280204$$LT4_JECAD$ICM0102023201$CFM Blade$No$DELPHI$S4316$$Yes$124$Scaling$8280025$294$Axial$$$$
+8280209$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$SEGMENTFAN$$Yes$210$Design$$456$Axial$$$$
+8280220$$LT4_JECAD$ICM0102023201$CFM Blade$No$$$$Yes$150$Scaling$8280172$379$Axial$$$$
+8280222$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$PSA$B0$rev./01 calettata +2° scalata e traslata$Yes$125$Reverse$8280075$310$Axial$$$$
+8280227$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$RENAULT$PLAT C$calettamento graduale da 1° a 3° (tra tip-hub)$Yes$168$Reverse$8280203$368$Axial$$$$
+8280230$$LT4_JECAD$ICM0102023201$CFM Blade$No$TOYOTA$B0$da CW ad antioraria CCW$Yes$110$Reverse$8280013$325$Axial$$$$
+8280232$$LT4_JECAD$ICM0102023201$CFM Blade$No$AUDI$PQ46 SLAVE$Reverse$Yes$118$Reverse$$284$Axial$$$$
+1112-5YY0001$$LT4_JECAD$ICM0102023201$CFM Blade$No$VW$PQ46 MASTER$Reverse$Yes$140$Reverse$$348$Axial$$$$
+8280260$$LT4_JECAD$ICM0102023201$CFM Blade$No$FORD$EUCD$reimpilamento bordo di uscita ridotto dalla rev./00$Yes$140$Modification$8280244$365$Axial$$$$
+8280262$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$$$Yes$140$Scaling$8280261$325$Axial$$$$
+8280267$$LT4_JECAD$ICM0102023201$CFM Blade$No$AUDI$B8$calettato 3° dalla rev./00$Yes$140$Modification$8280244$365$Axial$$$$
+8280270$$LT4_JECAD$ICM0102023201$CFM Blade$No$VW$PQ46$scalata su diametro(430/387)$Yes$166$Scaling$8280228$425$Axial$$$$
+8280272$$LT4_JECAD$ICM0102023201$CFM Blade$No$VW$PQ24N$scalata sul diametro(386/368) sulla corda$Yes$144$Modification$8280162$382$Axial$$$$
+8280281$$LT4_JECAD$ICM0102023201$CFM Blade$No$VW$PQ35 Sing$scalata sulla corda$Yes$147.6$Modification$8280278$385$Axial$$$$
+8280287$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$DELPHI$EPSILON2$$Yes$150$Design$$321$Axial$$$$
+8280296$$LT4_JECAD$ICM0102023201$CFM Blade$No$OPEL$S4316$scalata su diametro(348/370) scaricata per asimmetria dalla rev./00$Yes$131.5$Scaling$8280244$342.5$Axial$$$$
+8280300$$LT4_JECAD$ICM0102023201$CFM Blade$No$FORD$C307$$Yes$148.5$Design$$365$Axial$$$$
+8280314$$LT4_JECAD$ICM0102023201$CFM Blade$No$FORD USA$DEW$$Yes$151$Design$$445$Axial$$$$
+8280327$$LT4_JECAD$ICM0102023201$CFM Blade$No$JAGUAR$X250$modificato bordo di uscita eta buono e rumore inferiore alla 97$Yes$197.3$Modification$8280318$455$Axial$$$$
+8280337$$LT4_JECAD$ICM0102023201$CFM Blade$No$JAGUAR$X250$scalata sulla corda 8/11 e allungata deriva dalla 97$Yes$198$Modification$8280318$475$Axial$$$$
+8280353$$LT4_JECAD$ICM0102023201$CFM Blade$No$BMW$E89$cambiato senso di rotazione$Yes$180$Modification$8280324$455$Axial$$$$
+8280358$$LT4_JECAD$ICM0102023201$CFM Blade$No$FORD$TRANSIT$Reverse scalata su diametro(430/415) corda$Yes$160$Reverse$8280334$425$Axial$$$$
+8280367$$LT4_JECAD$ICM0102023201$CFM Blade$No$RIYONG$SGM259$scalata su diametro(460/370) sulle corda$Yes$175$Modification$8280357$455$Axial$$$$
+8280382$$LT4_JECAD$ICM0102023201$CFM Blade$No$BMW$PL7 850W$calettata -3°$Yes$180$Modification$8280380$227.5$Axial$$$$
+8280387$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$FORD$C1 MCAC$scalata su diametro(170/168)$Yes$111.5$Scaling$8280385$166.5$Axial$$$$
+8280391$$LT4_JECAD$ICM0102023201$CFM Blade$No$FORD$CD4$scalata su diametro(320/480)$Yes$134$Scaling$8280277$316$Axial$$$$
+8280396$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$PL7 600W$reimpilato come 8280290$Yes$182$Modification$8280395$455$Axial$$$$
+8280399$$LT4_JECAD$ICM0102023201$CFM Blade$No$BMW$PL7 600W$inspessito i profili 0.12mm$Yes$180$Modification$8280365$455$Axial$$$$
+8280400$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$LAND ROVER$PLA$scalata sulla corda 13/11 trim all'apice di 2.5mm$Yes$150$Modification$8280397$290$Axial$$$$
+8280413$$LT4_JECAD$ICM0102023201$CFM Blade$No$RENAULT$X10$calettata -2°$Yes$150$Modification$8280406$380$Axial$$$$
+8280424$$LT4_JECAD$ICM0102023201$CFM Blade$No$GM USA$K2XX$calettata +2,5°, scalata sulla corda 7/8 dalla rev./01$Yes$150$Modification$8280326$385$Axial$$$$
+8280425$$LT4_JECAD$ICM0102023201$CFM Blade$No$GM USA$K2XX$calettata +4°, scalata sulla corda 6/8 dalla rev./01$Yes$150$Modification$8280326$385$Axial$$$$
+8280427$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$USA$CORVETTE$scalata sulla corda 6/7 e su diametro$Yes$150$Modification$8280422$385$Axial$$$$
+8280428$$LT4_JECAD$ICM0102023201$CFM Blade$No$MASERATI$M156$scalata su diametro(486/460)$Yes$190$Scaling$8280399$481$Axial$$$$
+8280429$$LT4_JECAD$ICM0102023201$CFM Blade$No$GM USA$K2XX$calettata +2,5°, scalata sulla corda 0,9$Yes$150$Modification$8280421$385$Axial$$$$
+8280434$$LT4_JECAD$ICM0102023201$CFM Blade$No$BMW$PL7 850W$eliminato scarico su bordo uscita$Yes$182$Modification$8280418$455$Axial$$$$
+8280435$$LT4_JECAD$ICM0102023201$CFM Blade$No$RENAULT$$scalata su diametro(425/390) scalettata -5° reimpilata in z dalla rev./01$Yes$160$Scaling$8280326$420$Axial$$$$
+8280438$$LT4_JECAD$ICM0102023201$CFM Blade$No$PSA$BVH2$bordo d'ingresso specchiato BWard$Yes$155$Modification$8280431$410$Axial$$$$
+8280464$$LT4_JECAD$ICM0102023201$CFM Blade$No$GM USA$K2XX$reimpilato bordo d'ingresso, come bordo cod. 8280460 scalata 150/138$Yes$150$Modification$8280429$385$Axial$$$$
+8280465$$LT4_JECAD$ICM0102023201$CFM Blade$No$BMW$PL7 850W$calettata -2°$Yes$182$Modification$8280434$455$Axial$$$$
+8280467$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$VW$MQB$backward$Yes$160$Modification$8280462$385$Axial$$$$
+8280468$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$PL7 300W$reimpilamento backward specchiato bordo di ingresso$Yes$170$Modification$8280394$425$Axial$$$$
+8280469$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$VW$MQB$modificato profilo bordo d'ingresso$Yes$140$Modification$8280363$425$Axial$$$$
+8280474$$LT4_JECAD$ICM0102023201$CFM Blade$No$VW$MQB$calettata-1,5°$Yes$160$Modification$8280467$385$Axial$$$$
+8280477$$LT4_JECAD$ICM0102023201$CFM Blade$No$TOYOTA$B3B4$calettata +3°$Yes$122$Modification$8280378$300$Axial$$$$
+8280479$$LT4_JECAD$ICM0102023201$CFM Blade$No$GM USA$D2UXX$scalata su diametro (320/322)$Yes$132$Scaling$8280402$315$Axial$$$$
+8280485$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$35UP$calettata +2°$Yes$188$Modification$8280484$470$Axial$$$$
+8280488$$LT4_JECAD$ICM0102023201$CFM Blade$No$GM USA$31XX$reimpilato i profili$Yes$214$Modification$8280471$562$Axial$$$$
+8280505$$LT4_JECAD$ICM0102023201$CFM Blade$No$FORD$C34X$scalata su diametro (395/390) corda(8/10) scalettata -3°, reimpilato bordo d'ingresso in z e su circonferenza in uscita$Yes$153$Modification$8280421$391$Axial$$$$
+1112-5YY0009$$LT4_JECAD$ICM0102023201$CFM Blade$No$FIAT$326$scalata su diametro(9/10)$Yes$134$Modification$8280506$342$Axial$$$$
+8280509$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$VW$MQB$$Yes$170$Design$$425$Axial$$$$
+8280540$$LT4_JECAD$ICM0102023201$CFM Blade$No$GM$INOVAR GSV/MONTANA$scalata su diametro (370/445)$Yes$147$Scaling$8280507$366$Axial$$$$
+8280541$$LT4_JECAD$ICM0102023201$CFM Blade$No$AUDI$Q5$specchiata, calettata -3°, scalata sulla corda 1.03,$Yes$174$Modification$8280536$455$Axial$$$$
+8280559$$LT4_JECAD$ICM0102023201$CFM Blade$No$PSA$EMP2 Euro6.2$scalatura sul diametro (417/445)$Yes$155.74$Scaling$8280507$412$Axial$$$$
+8280586$$LT4_JECAD$ICM0102023201$CFM Blade$No$MAZDA$J78$scalata su diametro (435/385)$Yes$169.5$Modification$8280553$435$Axial$$$$
+8280592$$LT4_JECAD$ICM0102023201$CFM Blade$No$FIAT$DUCATO CAC E6$scalato su diametro (205/207) variato calettamento (-2°) profili su mozzo e apice (-1°) pala specchiata$Yes$107.8$Modification$8280442$201$Axial$$$$
+8280593$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BEHR$35 BCX HP$Calettamento pala: -1.5°$Yes$166.15$Modification$8280589$504.40$Axial$$$$$$$$$$
+8280607$$LT4_JECAD$ICM0102023201$CFM Blade$No$MAZDA$J72$calettata +2°$Yes$150$Modification$8280429$385$Axial$$$$
+8280608$$LT4_JECAD$ICM0102023201$CFM Blade$No$PSA$EMP1$Trim su mozzo a diametro 155$Yes$155$Scaling$8280569$366.25$Axial$$$$
+8280621$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$PSA$EMP2 €6.2 CLASSE4$Scalata su diametro (415/457.7) off-set proporzionale su 4°profilo (0.3)$Yes$153.93$Scaling$8280602$410$Axial$$$$
+8280624$$LT4_JECAD$ICM0102023201$CFM Blade$No$VW$MQB A0 K01$Scalata su diametro (386/320)$No$124.35$Modification$8280616$320$Axial$$$$
+8280626$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$VOLVO$VEA Gen.3$Scalata su diametro (480/460) off-set proporzionale per ottenere 5mm$Yes$153.65$Modification$8280578$474.5$Axial$$$$
+8280629$$LT4_JECAD$ICM0102023201$CFM Blade$No$MAZDA$J72$Reimpilato i profili in z$Yes$150$Modification$8280429$385$Axial$$$$
+8280631$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$VW$MQB$Ottimizzazione pala 8280501 mediante sostituzione profili NACA e riduzione curvatura$Yes$162$Design$8280501$384.4$Axial$$$$
+8280634$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$MERCEDES$BR167$calettamento + 1.5°$Yes$190$Design$8280604$514.4$Axial$$$$
+8280635$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$GM$E2UL$Raddrizzatore profili NACA9515-8520 a bassa incidenza, da CFD pala 8280538 ATA 0°@ 20Pa_2500rpm$Yes$217.38$Design$8280538$514.3$Straightener$$$$
+8280636$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$PSA$EMP2 €6.2 CLASSE4$off-set proporzionale +10.8% (spessori 8280602)$Yes$153.93$Modification$8280621$410$Axial$$$$
+8280639$$LT4_JECAD$ICM0102023201$CFM Blade$No$PSA$EMP2 2020$scalatura su corda (8/10) calettamento +0.5°$Yes$155$Modification$8280412$410$Axial$$$$
+8280650$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$MODINE TIGER$Raddrizzatore profili NACA9515-8520 da CFD pala 8280483 ATA 12°@ 210Pa_3100rpm$Yes$150$Design$8280483$410$Straightener$$$$
+8280652$$LT4_JECAD$ICM0102023201$CFM Blade$No$VW$PORSHE BEV J1$Scalatura pala da diametro 282 [mm] a diametro 353 [mm]. Spessore anello: 2.5 [mm]. Diametro nominale ventola: 358 [mm] Scalatura sulla corda da 7 a 9 pale.$Yes$155$Modification$8280368$353$Axial$$$$
+8280657$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$VOLVO$Emerald - TX5$Scalatura diam. (500/510)$Yes$162.8$Modification$8280583$494.5$Axial$$$$
+8280661$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$PSA$EMP1 €6.2 CL.2$$Yes$155.78$Design$$355$Axial$$$$
+8280664$$LT4_JECAD$ICM0102023201$CFM Blade$No$HONDA$Honda Brazil RFQ$Trim & Extend su tutti i bordi di uscita, Continuità + G1 su tutti i bordi di attacco, Scalatura sul diametro (300/410), Scalatura su corda (8/5)$Yes$120$Scaling$8280483$297.07$Axial$$$$
+8280665$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$MERCEDES$MRA2$Scalatura della pala secondo rapporto di scala 488/520. Riposizionamento pala su diametro mozzo 197 [mm] (invece che 180 [mm])$Yes$197$Modification$8280604$482.4$Axial$$$$
+8280666$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$MERCEDES$BR167$Studio reimpilamento tangenziale (sweep) mediante analisi CFD$Yes$190$Design$8280634$514.4$Axial$$$$
+8280669$$LT4_JECAD$ICM0102023201$CFM Blade$No$PSA$EMP1 €6.2 CL.2$$Yes$155.78$Design$$392$Axial$$$$
+8280671$$LT4_JECAD$ICM0102023201$CFM Blade$No$MAZDA$RG6.5$scalatura su diametro(350/370)$Yes$134.75$Scaling$8280569$346$Axial$$$$
+8280674$$LT4_JECAD$ICM0102023201$CFM Blade$No$MAZDA$RG6.5$Calettata di 1°$Yes$137$Modification$8280486$326$Axial$$$$
+8280679$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$DOOWON$OS$Statori per pala 8280672 (sck6741). Profilo aerodinamico fx73cl2152-il con angoli calettamento ottenuti tramite CFD +5°deg angolo di attacco. Punto di lavoro da CFD: 3162CMH, 296Pa, 2670rpm.$Yes$156$Scaling$8280672$420$Straightener$$$$
+8280685$$LT4_JECAD$ICM0102023201$CFM Blade$No$TESLA$Model S$Scalatura in diametro (327/316), calettamento +1.5, trim su mozzo (3.5 mm)$Yes$135$Modification$8280402$327$Axial$$$$
+8280693$$LT4_JECAD$ICM0102023201$CFM Blade$No$DOOWON$OS$Scalatura su corda (8/7)$Yes$156$Scaling$8280672$394$Axial$$$$
+8280714$$LT4_JECAD$ICM0102023201$CFM Blade$No$FIAT$MP$Pala estratta da 9140100 per ovviare alle problematiche di legame con 8280025 (tagliata sia al mozzo che all'anello)$Yes$124$Modification$8280025$282$Axial$$$$
+8280717$$LT4_JECAD$ICM0102023201$CFM Blade$No$FIAT$MP$Scalatura su diametro (295/282)$Yes$129.62$Modification$8280714$291$Axial$$$$
+8280719$$LT4_JECAD$ICM0102023201$CFM Blade$No$HONDA$XJTB$scalata sulla corda (7/9)$Yes$109.18$Scaling$8280715$276$Axial$$$$
+8280726$$LT4_JECAD$ICM0102023201$CFM Blade$No$HYUNDAI$KIA Optima$Scalata su diametro (430/407) + scalatura sulla corda 8/9$Yes$163.2$Scaling$8280678$426$Axial$$$$
+8280736$$LT4_JECAD$ICM0102023201$CFM Blade$No$PSA$BVH2_OS$calettamento -2°$Yes$161$Modification$8280572$425$Axial$$$$
+8280741$$LT4_JECAD$ICM0102023201$CFM Blade$No$RIYONG$GREAT WALL$Calettata +2°, corretto profilo al mozzo  per adeguare spessore (mediante off-set di 0.15mm per lato)$Yes$174$Scaling$8280536$455$Axial$$$$
+8280752$$LT4_JECAD$ICM0102023201$CFM Blade$No$RENAULT$EV2020$Scalata su diametro (370/406). Fattore scalatura (366/402)$Yes$140.2$Scaling$8280678$366$Axial$$$$
+8280753$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$RENAULT$W62$scalata su diametro (285/305). Fattore di scalatura (281/304.5)$Yes$138.42$Scaling$8280499$281$Axial$$$$
+8280755$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$FCA$T4 Hybrid$Scalata su diametro (420/361)$Yes$181.85$Scaling$8280660$415$Axial$$$$
+8280766$$LT4_JECAD$ICM0102023201$CFM Blade$No$BMW$FAAR WE$Scalatura da diametro 438 [mm] a diametro 415 [mm], montare su mozzo 166 [mm], tagliare eccedenza su apice.$Yes$166$Modification$8280726$409.4$Axial$$$$
+8280776$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$FCA$553-523$Scalata su diametro (420/460)$Yes$158.8$Scaling$8280536$415$Axial$$$$
+8280788$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$HYUNDAI$Hanon-ON$Pala scalata sul diametro 440/460 (fattore di scalatura 435/456.95). Spessore anello 2.5mm.$Yes$140.95$Scaling$8280578$435.24$Axial$$$$
+8280808$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$PSA$CMP$reimpilamento su bordo di uscita (0,0,-3°,+1°,+3°)$Yes$160.6$Modification$8280771$366$Axial$$$$
+8280822$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$NISSAN$EV2020$Statore scalato con fattore 270/290 +cal 5°deg.$No$139$Scaling$8280821$307$Straightener$$$$
+8280837$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$Spotlight$scalatura in diametro (410/460)$Yes$171$Modification$8280781$406$Axial$$$$
+8280845$$LT4_JECAD$ICM0102023201$CFM Blade$No$TOYOTA$067D$scalatura su diametro (480/510)$Yes$186.7$Scaling$8280643$475$Axial$$$$
+8280854$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$MAZDA$RG7 - LARGE$Scalatura su diametro: 490/460 - Scalatura sulla corda da 7 a 9 pale - Calettare +2°$Yes$157.7$Modification$8280578$484.4$Axial$$$$
+8280858$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$MERCEDES$BR214$Nuova progettazione da progetto BR167(8280812/sck9031).Variabili modificate = eta , t/c[%] profili(da 8280857)$Yes$183.00$Design$$495.00$Axial$$$$$$$$$$
+8280867$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$VOLVO$SPA2$Modifica calettamento pala (variazione -3°)$Yes$148.06$Modification$8280798$457.2$Axial$$$$
+8280870$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$PORSHE$983 BEV$Scalata su diametro (375/355) Scalura su corda a pari solidità (8/9) Calettamento +1° reimpilamento assiale dei profili (-15,-12,-6,-3, 0)$Yes$162.34$Modification$8280660$370$Axial$$$$
+8280872$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$VOLVO$VEA GEN3$reverse ventola di stampo 8250183/01 scalata sulla corda (7/9)$Yes$148.1$Reverse$8280798$457.2$Axial$$$$
+8280887$$LT4_JECAD$ICM0102023201$CFM Blade$No$BMW$FAAR WE HIGH HP$Scalatura sulla corda di 11/9$Yes$162.00$Modification$8280803$409.40$Axial$$$$$$$$$$
+8280891$$LT4_JECAD$ICM0102023201$CFM Blade$No$TOYOTA$730B 115W$scalatura su diametro (308/322) e corda (7/8) mirrow CCW$Yes$119.6$Scaling$8280402$303$Axial$$$$
+8280896$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$SSANGYONG$Y400$Scalatura su diametro 500/514$Yes$196$Scaling$8250295$500$Axial$$$$
+8280899$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$MERCEDES$BR214$Profili alari serie 65 (6512xx)$Yes$190$Design$$495$Axial$$$$
+8280924$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$VOLVO$DHE/DHT$Scalatura sulla corda 10/9$Yes$191.5$Scaling$8280781$454.4$Axial$$$$
+8280926$$LT4_JECAD$ICM0102023201$CFM Blade$No$VW$MQB48 twin master$scalatura su diametro (345/430)$Yes$130.25$Scaling$8280726$340$Axial$$$$
+8280932$$LT4_JECAD$ICM0102023201$CFM Blade$No$BMW$CLAAR WE T2 G45$scalatura da 524/484.4 scalettamento -1.5°$Yes$207$Scaling$8280866$524$Axial$$$$
+8280934$$LT4_JECAD$ICM0102023201$CFM Blade$No$SUZUKI$YFG$Scalata su diametro (425/406)$Yes$161$Scaling$8280678$420$Axial$$$$
+8280940$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$RENAULT$CMFB EV$Scalatura su diametro (349.6/454.4)$Yes$147.35$Scaling$8280781$349.6$Axial$$$$
+8280947$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$NCAR$Raddrizzatore NASA/LANGLEY LS(1)-0421 a bassa incidenza, da CFD pala 8280946 ATA 0°@173Pa_2500rpm$No$186.6$Design$8280946$414.4$Straightener$$$$
+8280962$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$VW$MQb48 Twin - Slave$DOE da progetto pala BW k2xx$No$136$Design$$305$Axial$$$$
+8280964$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$VW$MQb48 Twin$Scalatura a Dtip=305mm (305/350)$No$118.51$Scaling$8280963$305$Axial$$$$
+8280988$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$FCA$VF BEV$Similitudine a Dnom=500mm (rapporto di scalatura 495/503.8)$Yes$194.54$Scaling$8280643$495$Axial$$$$
+1112-5YY0053$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$BMW$G65$WP: 1.1 m3/s 295Pa 2630RPM FAN145$No$212.83$Design$1112-5yy0051$505$Straightener$$$$
+1112-5YY0054$$LT4_JECAD$ICM0102023201$CFM Blade$No$MERCEDES$MB.EA-M$Similitudine a Dnom=460mm (rapporto di scalatura 456/437) e sul numero di pale a pari solidità (7/9)$Yes$177.02$Scaling$8280943$456$Axial$$$$
+1112-5YY0055$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$PSA$EMP2 CL3/5$calettamento +1°$Yes$179.2$Modification$1112-5yy0076$425$Axial$$$$
+1112-5YY0065$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$TESLA$Everest$Scalatura sul diametro (347.6/363.6)$Yes$146.9$Scaling$8280689$347.6$Axial$$$$
+1112-5YY0086$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$$Ricerca e sviluppo$Scalatura in diametro al tip (280/363.6)$Yes$118.03$Scaling$8280689$280$Axial$$$$
+1112-5YY0089$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$NISSAN$L1ZE/F$scalatura su diametro 370/430$Yes$166$Scaling$gen3508$379$Axial$$$$
+1112-5YY0091$$LT4_JECAD$ICM0102023201$CFM Blade$Yes$PSA$EMP2 CL3/5$scalatura sulla corda 0.925, off-set profili (0.552 0.546 0.541 0.528 0.432 0.254 0.083)$Yes$179.2$Modification$1112-5yy0055$425$Axial$$$$
