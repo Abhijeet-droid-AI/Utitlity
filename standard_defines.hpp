@@ -1,6 +1,4 @@
-#pragma once
 #ifndef STANDARD_DEFINES_H
-
 #define STANDARD_DEFINES_H
 
 // C Standard
@@ -23,6 +21,7 @@
 #include <string>
 #include <set>
 #include <vector>
+#include <ctime>
 
 
 
@@ -35,13 +34,14 @@
 //	ITK Standard
 
 #include <base_utils/Mem.h>
-#include <ics/ics2.h>
+
 #include <bom/bom.h>
 
 #include <cfm/cfm.h>
 
 #include <fclasses/tc_string.h>
 
+#include <ics/ics2.h>
 
 #include <itk/te.h>
 #include <tc/tc_startup.h>
@@ -63,6 +63,7 @@
 
 #include <tc/emh.h>
 #include <tc/preferences.h>
+#include <tc/tc_startup.h>
 #include <tc/tc_util.h>
 
 #include <tccore/aom.h>
@@ -135,5 +136,4 @@ failureLogger_->logError(status)
 //static char * stringToChar(string sName);
 
 
-#endif
-
+#endif#pragma once

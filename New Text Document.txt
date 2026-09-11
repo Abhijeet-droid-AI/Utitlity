@@ -1,0 +1,3 @@
+set TC_ROOT=C:\plm\teamcenter\tc13
+set TC_DATA=\\gptcdv-ep-atc04\apps\TCDATA
+call %TC_DATA%\tc_profilevars.bat

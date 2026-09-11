@@ -31,9 +31,9 @@ DLLAPI M_Logger::M_Logger(string inLogDirectory)
 	__time64_t rawtime;
 	struct tm timeinfo;
 	char buffer[200];
-	/*
-		time(&);
-		localtime_s(timeinfo, &rawtime);*/
+/*
+	time(&);
+	localtime_s(timeinfo, &rawtime);*/
 	_time64(&rawtime);
 	// Convert to local time.
 	_localtime64_s(&timeinfo, &rawtime);
@@ -50,8 +50,8 @@ DLLAPI M_Logger::M_Logger(string inLogDirectory)
 	(logFile_) = new ofstream();
 	(FaillogFile_) = new ofstream();
 
-	string file = logDirectory_ + s + ".log";
-	string ffile = logDirectory_ + fs + ".log";
+	string file = logDirectory_ +s + ".log";
+	string ffile = logDirectory_ +fs + ".log";
 
 	(*logFile_).open(file, ios::app);
 	(*FaillogFile_).open(ffile, ios::app);
@@ -67,7 +67,7 @@ Description : Writes to correspoding log file
 DLLAPI void M_Logger::write(string inInputLine)
 {
 	*logFile_ << inInputLine << endl;
-	//TC_write_syslog("\n%s\n", inInputLine.c_str());
+	TC_write_syslog("\n%s\n", inInputLine.c_str());
 }
 
 /******************************************************************************************************************************************
@@ -77,10 +77,8 @@ Description : Writes to fail log file
 ******************************************************************************************************************************************/
 DLLAPI void M_Logger::writefaillog(string inInputLine)
 {
-	error_flag = 1;
 	*FaillogFile_ << inInputLine << endl;
-	//TC_write_syslog("\n%s\n", inInputLine.c_str());
-	
+	TC_write_syslog("\n%s\n", inInputLine.c_str());
 	//cout << inInputLine << endl;
 }
 

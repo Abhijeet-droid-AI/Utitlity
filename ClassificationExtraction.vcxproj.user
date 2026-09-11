@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LocalDebuggerCommandArguments>-u=tata_user -p=JE#Dev2023 -g=dba -input=D:\ITK_customization\Classification_Utility\ClassificationUtilitiesTC13_2DEC_for_ClassificationImport\ClassificationUtilitiesTC13\ClassificationExtraction\InputFileT.txt -output=D:\ITK_customization\Classification_Utility\ClassificationUtilitiesTC13_2DEC_for_ClassificationImport\ClassificationUtilitiesTC13\ClassificationExtraction\OutputFile.txt -log=D:\ITK_customization\Classification_Utility\ClassificationUtilitiesTC13_2DEC_for_ClassificationImport\ClassificationUtilitiesTC13\ClassificationExtraction\Logs\Logs\</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+</Project>

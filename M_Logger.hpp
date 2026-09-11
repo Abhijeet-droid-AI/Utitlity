@@ -28,12 +28,12 @@ private:
 	/*
 		handle to log file
 	*/
-	ofstream* logFile_;
+	ofstream  *logFile_;
 
 	/*
 		handle to fail log file
 	*/
-	ofstream* FaillogFile_;
+	ofstream  *FaillogFile_;
 
 public:
 	/**
@@ -44,7 +44,7 @@ public:
 	*
 	*/
 	DLLAPI M_Logger(void);
-	int error_flag;
+
 	/**
 	* @brief   M_Logger : Constructor.
 	* @param   logDirectory [I] Log directgory where log will be generated.
