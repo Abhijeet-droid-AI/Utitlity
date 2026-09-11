@@ -1,6 +1,5 @@
 #pragma once
 
-
 #include "standard_defines.hpp"
 
 using namespace std;
@@ -13,7 +12,6 @@ private:
 	*/
 	string logDirectory_;
 
-
 	/*
 		Name of the log file
 	*/
@@ -23,7 +21,6 @@ private:
 		Name of the failure log file
 	*/
 	string FaillogFileName_;
-
 
 	/*
 		handle to log file

@@ -9,8 +9,6 @@ using namespace std;
 * @par Note
 *
 */
-//M_Logger* M_Logger::logger = NULL;
-
 DLLAPI M_Logger::M_Logger(void)
 {
 
@@ -31,16 +29,13 @@ DLLAPI M_Logger::M_Logger(string inLogDirectory)
 	__time64_t rawtime;
 	struct tm timeinfo;
 	char buffer[200];
-	/*
-		time(&);
-		localtime_s(timeinfo, &rawtime);*/
+
 	_time64(&rawtime);
 	// Convert to local time.
 	_localtime64_s(&timeinfo, &rawtime);
 
 	strftime(buffer, 200, "%Y_%m_%d__%H_%M_%S", &timeinfo);
 
-	//cout << buffer << endl;
 	s += buffer;
 	fs += buffer;
 
@@ -67,7 +62,6 @@ Description : Writes to correspoding log file
 DLLAPI void M_Logger::write(string inInputLine)
 {
 	*logFile_ << inInputLine << endl;
-	//TC_write_syslog("\n%s\n", inInputLine.c_str());
 }
 
 /******************************************************************************************************************************************
@@ -79,9 +73,6 @@ DLLAPI void M_Logger::writefaillog(string inInputLine)
 {
 	error_flag = 1;
 	*FaillogFile_ << inInputLine << endl;
-	//TC_write_syslog("\n%s\n", inInputLine.c_str());
-	
-	//cout << inInputLine << endl;
 }
 
 /******************************************************************************************************************************************

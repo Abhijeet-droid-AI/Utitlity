@@ -77,8 +77,8 @@
 
 #include <user_exits/epm_toolkit_utils.h>
 
-#define SCOPE							TC_preference_site
-#define bomAttr_levelZero				"bl_level_starting_0"
+#define SCOPE					TC_preference_site
+#define bomAttr_levelZero			"bl_level_starting_0"
 #define	bomAttr_itemRevOwningUser		"bl_rev_owning_user"
 
 
@@ -87,22 +87,22 @@
 #define WIN_SEPERATOR "\\"
 #define NON_WIN_SEPERATOR "//"
 #define LOG_EXT ".log"
-#define COMMA  "," 
+#define COMMA  ","
 #define HEADER_STRING "\n"+"**************************************************"
 #define CONST_ITEM_ID_ATTR "item_id"
 #define CONST_VALUE_ONE 1
 
 using namespace std;
 
-#define ITK(x)																												 \
-{																															 \
-    if ( (status = (x)) != ITK_ok )																							 \
-    {																														 \
-            char *error_str = NULL;																							 \
-            EMH_ask_error_text ( status, &error_str );																		 \
+#define ITK(x)																																				\
+{																																							\
+    if ( (status = (x)) != ITK_ok )																															\
+    {																																						\
+            char *error_str = NULL;																															\
+            EMH_ask_error_text ( status, &error_str );																										\
             TC_write_syslog ( "ERROR: %d, ERROR MSG: %s. at Line: %d in File: %s\n", status, error_str, __LINE__, __FILE__ );\
-            MEM_free ( error_str );																							 \
-    }																														 \
+            MEM_free ( error_str );																															\
+    }																																						\
 }
 
 #define SAFE_MEM_FREE( a )  \
@@ -125,10 +125,10 @@ if ( a != NULL )		\
    }										\
 }
 
-#define FAIL_LOG						\
-toolLogger_->writeln( ossLog.str() );	\
-toolLogger_->logError(status);			\
-failureLogger_->writeln( ossLog.str() );\
+#define FAIL_LOG							\
+toolLogger_->writeln( ossLog.str() );		\
+toolLogger_->logError(status);				\
+failureLogger_->writeln( ossLog.str() );	\
 failureLogger_->logError(status)
 
 
@@ -136,4 +136,3 @@ failureLogger_->logError(status)
 
 
 #endif
-

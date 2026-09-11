@@ -51,8 +51,6 @@
 #include <textsrv/textserver.h>
 #include <res/res_itk.h>
 #include <res/reservation.h>
-//#include<Cls0classification/cls_itk.h>
-//#include <Cls0classification/libcls0classification_exports.h>
 
 using namespace std;
 #include<base_utils\ScopedSmPtr.hxx>
@@ -68,6 +66,7 @@ using namespace Teamcenter;
 #define OBJECT_NAME "object_name"
 #define OBJECT_SUFFIX "m4suffix"
 #define CLASS_ID "class_id"
+#define ACTION_ID "ACTION"
 #define SEARCH_INDEX_VIEW "SearchIndexView"
 #define PREF_ICS_CLASSIFIABLE_TYPES "ICS_classifiable_types"
 #define M4M_PART_TYPE "M4MPart"
@@ -76,16 +75,16 @@ using namespace Teamcenter;
 #define M4M_COMMERCIAL_TYPE "M4MCommercial"
 #define M4M_DRAWING_TYPE "M4MDrawing"
 
-#define ITK(x)																													\
-{																																\
-    if ( (iStatus = (x)) != ITK_ok )																							\
-    {																															\
-            char *error_str = NULL;																								\
-            EMH_ask_error_text ( iStatus, &error_str );																			\
-            TC_write_syslog ( "ERROR: %d, ERROR MSG: %s. at Line: %d in File: %s\n", iStatus, error_str, __LINE__, __FILE__ );	\
-            MEM_free ( error_str );																								\
-    }																															\
-}	
+#define ITK(x)																																			\
+{																																						\
+    if ( (iStatus = (x)) != ITK_ok )																													\
+    {																																					\
+            char *error_str = NULL;																														\
+            EMH_ask_error_text ( iStatus, &error_str );																									\
+            TC_write_syslog ( "ERROR: %d, ERROR MSG: %s. at Line: %d in File: %s\n", iStatus, error_str, __LINE__, __FILE__ );\
+            MEM_free ( error_str );																														\
+    }																																					\
+}
 
 #define SAFE_MEM_FREE( a )  \
 do                          \
@@ -96,8 +95,7 @@ do                          \
 		a = NULL;			\
     }                       \
 }                           \
-while ( 0 )																																														\
-
+while ( 0 )																																						\
 
 
 #endif
